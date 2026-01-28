@@ -10,7 +10,7 @@ files:
 logo: logos/authelia.png
 category: Security
 popular: true
-github: https://github.com/louislam/uptime-kuma
+github: https://github.com/authelia/authelia
 
 tags:
   - 2fa

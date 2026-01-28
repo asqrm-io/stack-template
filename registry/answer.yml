@@ -9,6 +9,8 @@ files:
 
 logo: logos/answer.png
 category: Collaboration
+popular: true
+github: https://github.com/apache/answer
 
 tags:
   - qa
