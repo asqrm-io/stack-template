@@ -1,0 +1,18 @@
+id: speedtest-tracker
+name: Speedtest Tracker
+title: Speedtest Tracker
+description: Deploy Speedtest Tracker to monitor internet speed over time using Ookla Speedtest, with historical charts and alerts.
+version: 1.0.0
+
+files:
+  - compose.d/speedtest-tracker.yml
+
+logo: logos/speedtest-tracker.png
+category: monitoring
+
+tags:
+  - network
+  - speedtest
+  - monitoring
+  - isp
+  - bandwidth

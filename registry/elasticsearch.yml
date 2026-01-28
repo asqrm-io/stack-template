@@ -1,0 +1,19 @@
+id: elasticsearch
+name: Elasticsearch
+title: Elasticsearch
+description: A powerful, distributed, RESTful search and analytics engine used for log indexing, full-text search, metrics, and real-time data analysis.
+version: 1.0.0
+
+files:
+  - compose.d/elasticsearch.yml
+
+logo: logos/elasticsearch.png
+category: Database
+
+tags:
+  - search
+  - analytics
+  - logs
+  - opensearch
+  - full-text
+  - distributed

@@ -1,0 +1,18 @@
+id: hoppscotch
+name: Hoppscotch
+title: Hoppscotch
+description: Deploy Hoppscotch, a fast and open-source API development and testing client for REST, GraphQL, and WebSocket APIs.
+version: 1.0.0
+
+files:
+  - compose.d/hoppscotch.yml
+
+logo: logos/hoppscotch.png
+category: developer-tools
+
+tags:
+  - api
+  - testing
+  - developer
+  - rest
+  - graphql

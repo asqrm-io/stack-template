@@ -1,0 +1,19 @@
+id: portainer
+name: Portainer
+title: Portainer
+description: A lightweight container management UI for Docker, Swarm, and Kubernetes environments.
+version: 1.0.0
+
+files:
+  - compose.d/portainer.yml
+
+logo: logos/portainer.png
+category: Networking
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - docker
+  - kubernetes
+  - ui
+  - devops

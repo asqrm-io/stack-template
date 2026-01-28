@@ -1,0 +1,17 @@
+id: photoprism
+name: Photoprism
+title: Photoprism
+description: AI-powered photo management and browsing system for self-hosted collections.
+version: 1.0.0
+
+files:
+  - compose.d/photoprism.yml
+
+logo: logos/photoprism.png
+category: Media
+
+tags:
+  - photos
+  - gallery
+  - ai
+  - media

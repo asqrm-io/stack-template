@@ -1,0 +1,19 @@
+id: netbird
+name: NetBird
+title: NetBird
+description: NetBird is a self-hosted, modern VPN and network management platform that provides secure, zero-trust connectivity between devices, cloud, and on-premises networks.
+version: 1.0.0
+
+files:
+  - compose.d/netbird.yml
+
+logo: logos/netbird.png
+category: Networking
+
+tags:
+  - vpn
+  - networking
+  - zero-trust
+  - connectivity
+  - self-hosted
+  - security

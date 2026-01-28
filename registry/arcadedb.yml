@@ -1,0 +1,20 @@
+id: arcadedb
+name: arcadedb
+title: ArcadeDB
+description: Deploy ArcadeDB, a high-performance multi-model database supporting graph, document, and key-value data models.
+version: 1.0.0
+
+files:
+  - compose.d/arcadedb.yml
+
+logo: logos/arcadedb.png
+category: Database
+popular: true
+github: https://github.com/ArcadeData/arcadedb
+
+tags:
+  - database
+  - graph
+  - document
+  - key-value
+  - multimodel

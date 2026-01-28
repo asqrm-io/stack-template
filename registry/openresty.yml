@@ -1,0 +1,17 @@
+id: openresty
+name: openresty
+title: OpenResty
+description: Deploy OpenResty, an NGINX-based platform with powerful Lua scripting for high-performance web applications.
+version: 1.0.0
+
+files:
+  - compose.d/openresty.yml
+
+logo: logos/openresty.png
+category: Web Server
+
+tags:
+  - nginx
+  - lua
+  - scripting
+  - web

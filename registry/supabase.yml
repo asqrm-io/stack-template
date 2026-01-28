@@ -1,0 +1,20 @@
+id: supabase
+name: Supabase
+title: Supabase
+description: Open-source Firebase alternative for authentication, database, storage, and real-time APIs.
+version: 1.0.0
+
+files:
+  - compose.d/supabase.yml
+
+logo: logos/supabase.png
+category: Backend
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - backend
+  - database
+  - realtime
+  - api
+  - auth

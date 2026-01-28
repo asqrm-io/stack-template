@@ -1,0 +1,17 @@
+id: caddy
+name: Caddy
+title: Caddy
+description: A modern, secure, and easy-to-use web server with automatic HTTPS powered by Let's Encrypt.
+version: 1.0.0
+
+files:
+  - compose.d/caddy.yml
+
+logo: logos/caddy.png
+category: Web Server
+
+tags:
+  - webserver
+  - https
+  - tls
+  - reverse-proxy

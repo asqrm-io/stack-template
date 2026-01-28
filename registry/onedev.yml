@@ -1,0 +1,19 @@
+id: onedev
+name: OneDev
+title: OneDev
+description: A unified DevOps platform providing Git hosting, CI/CD pipelines, issue tracking, code review, and package management — all in one self-hosted solution.
+version: 1.0.0
+
+files:
+  - compose.d/onedev.yml
+
+logo: logos/onedev.png
+category: DevOps
+
+tags:
+  - git
+  - cicd
+  - devops
+  - scm
+  - code-review
+  - pipelines

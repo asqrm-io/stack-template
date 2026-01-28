@@ -1,0 +1,17 @@
+id: redmine
+name: Redmine
+title: Redmine
+description: Flexible project management web application with issue tracking, Gantt charts, and collaboration features.
+version: 1.0.0
+
+files:
+  - compose.d/redmine.yml
+
+logo: logos/redmine.png
+category: Collaboration
+
+tags:
+  - project-management
+  - tasks
+  - kanban
+  - tracking

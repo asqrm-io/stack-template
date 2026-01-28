@@ -1,0 +1,19 @@
+id: lancache
+name: LanCache
+title: LanCache
+description: LanCache is a self-hosted caching proxy for game downloads and updates, improving download speeds on local networks by caching content from popular gaming platforms.
+version: 1.0.0
+
+files:
+  - compose.d/lancache.yml
+
+logo: logos/lancache.png
+category: Networking
+
+tags:
+  - caching
+  - proxy
+  - games
+  - network
+  - performance
+  - self-hosted

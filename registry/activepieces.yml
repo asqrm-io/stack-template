@@ -1,0 +1,17 @@
+id: activepieces
+name: activepieces
+title: Activepieces
+description: Self-hosted workflow automation platform to connect apps, APIs, and services using low-code/no-code automation similar to n8n or Zapier.
+version: 1.0.0
+
+files:
+  - compose.d/activepieces.yml
+
+logo: logos/activepieces.png
+category: Automation
+
+tags:
+  - workflow
+  - automation
+  - integration
+  - low-code

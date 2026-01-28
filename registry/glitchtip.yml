@@ -1,0 +1,18 @@
+id: glitchtip
+name: GlitchTip
+title: GlitchTip
+description: An open-source alternative to Sentry for error tracking, performance monitoring, and application observability.
+version: 1.0.0
+
+files:
+  - compose.d/glitchtip.yml
+
+logo: logos/glitchtip.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - error-tracking
+  - observability
+  - sentry-alternative
+  - performance

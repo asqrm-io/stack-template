@@ -1,0 +1,19 @@
+id: appsmith
+name: appsmith
+title: Appsmith
+description: An open-source low-code platform for rapidly building internal tools using drag-and-drop UI components and integrations.
+version: 1.0.0
+
+files:
+  - compose.d/appsmith.yml
+
+logo: logos/appsmith.png
+category: Productivity
+
+tags:
+  - lowcode
+  - internal-tools
+  - dashboard
+  - builder
+  - automation
+  - ui

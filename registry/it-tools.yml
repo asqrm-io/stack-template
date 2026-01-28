@@ -1,0 +1,19 @@
+id: it-tools
+name: IT-Tools
+title: IT-Tools
+description: IT‑Tools is a self‑hostable suite of handy online utilities for developers and IT professionals, offering converters, generators, formatters, and other IT helper tools in one place. :contentReference[oaicite:0]{index=0}
+version: 1.0.0
+
+files:
+  - compose.d/it-tools.yml
+
+logo: logos/it-tools.png
+category: DevOps
+
+tags:
+  - developer-tools
+  - utilities
+  - productivity
+  - self-hosted
+  - conversions
+  - formatting

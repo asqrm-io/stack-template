@@ -1,0 +1,16 @@
+id: miniflux
+name: Miniflux
+title: Miniflux
+description: A minimalist and fast RSS reader built for simplicity, privacy, and efficiency.
+version: 1.0.0
+
+files:
+  - compose.d/miniflux.yml
+
+logo: logos/miniflux.png
+category: Productivity
+
+tags:
+  - rss
+  - reader
+  - news

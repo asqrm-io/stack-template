@@ -1,0 +1,19 @@
+id: mastodon
+name: Mastodon
+title: Mastodon
+description: Mastodon is a self-hosted, decentralized social networking platform that allows users to create communities, share content, and communicate via federated instances.
+version: 1.0.0
+
+files:
+  - compose.d/mastodon.yml
+
+logo: logos/mastodon.png
+category: Productivity
+
+tags:
+  - social
+  - microblogging
+  - federated
+  - self-hosted
+  - community
+  - networking

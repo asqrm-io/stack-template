@@ -1,0 +1,17 @@
+id: netbox
+name: NetBox
+title: NetBox IPAM & DCIM
+description: Open-source tool for managing IP addresses, devices, racks, and network infrastructure.
+version: 1.0.0
+
+files:
+  - compose.d/netbox.yml
+
+logo: logos/netbox.png
+category: Networking
+
+tags:
+  - ipam
+  - network
+  - dcim
+  - infrastructure

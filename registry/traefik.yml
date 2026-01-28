@@ -1,0 +1,19 @@
+id: traefik
+name: Traefik
+title: Traefik Proxy
+description: A cloud-native reverse proxy and ingress controller with automatic SSL and dynamic configuration discovery.
+version: 1.0.0
+
+files:
+  - compose.d/traefik.yml
+
+logo: logos/traefik.png
+category: Networking
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - reverse-proxy
+  - docker
+  - ingress
+  - ssl

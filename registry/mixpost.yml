@@ -1,0 +1,19 @@
+id: mixpost
+name: Mixpost
+title: Mixpost
+description: Mixpost is a self-hosted platform for scheduling and managing social media posts across multiple networks, providing analytics, post previews, and workflow automation for teams.
+version: 1.0.0
+
+files:
+  - compose.d/mixpost.yml
+
+logo: logos/mixpost.png
+category: Productivity
+
+tags:
+  - social
+  - scheduling
+  - automation
+  - analytics
+  - self-hosted
+  - marketing

@@ -1,0 +1,19 @@
+id: ddns-updater
+name: DDNS Updater
+title: DDNS Updater
+description: A self-hosted dynamic DNS updater that automatically updates DNS records when your IP address changes, keeping your domains reachable at all times.
+version: 1.0.0
+
+files:
+  - compose.d/ddns-updater.yml
+
+logo: logos/ddns-updater.png
+category: Networking
+
+tags:
+  - ddns
+  - dns
+  - dynamic-ip
+  - updater
+  - self-hosted
+  - networking

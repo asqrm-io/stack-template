@@ -1,0 +1,20 @@
+id: postgresus
+name: postgresus
+title: Postgresus
+description: Postgresus is a self-hosted PostgreSQL database backup management UI. Open source solution for automated PostgreSQL backups. With multiple storage options and notifications
+version: 1.0.0
+
+files:
+  - compose.d/postgresus.yml
+
+logo: logos/postgresus.png
+category: Database
+
+tags:
+  - postgres
+  - database
+  - sql
+  - admin
+  - gui
+  - management
+  - self-hosted

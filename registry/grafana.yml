@@ -1,0 +1,18 @@
+id: grafana
+name: Grafana
+title: Grafana
+description: A powerful visualization and analytics platform for creating dynamic dashboards from any data source.
+version: 1.0.0
+
+files:
+  - compose.d/grafana.yml
+
+logo: logos/grafana.png
+category: Monitoring
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - dashboards
+  - analytics
+  - observability

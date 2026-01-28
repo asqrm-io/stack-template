@@ -1,0 +1,19 @@
+id: rallly
+name: Rallly
+title: Rallly
+description: Rallly is an open-source scheduling tool similar to Doodle, allowing teams to create polls, coordinate meeting times, and manage availability through a clean and modern interface.
+version: 1.0.0
+
+files:
+  - compose.d/rallly.yml
+
+logo: logos/rallly.png
+category: Productivity
+
+tags:
+  - scheduling
+  - polls
+  - meetings
+  - collaboration
+  - productivity
+  - self-hosted

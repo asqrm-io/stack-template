@@ -1,0 +1,17 @@
+id: vault
+name: HashiCorp Vault
+title: Vault Secrets Manager
+description: A secure tool for managing secrets, tokens, encryption keys, and sensitive configuration at scale.
+version: 1.0.0
+
+files:
+  - compose.d/vault.yml
+
+logo: logos/vault.png
+category: Security
+
+tags:
+  - secrets
+  - encryption
+  - security
+  - devops

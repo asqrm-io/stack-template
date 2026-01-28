@@ -1,0 +1,19 @@
+id: domainmod
+name: DomainMOD
+title: DomainMOD
+description: DomainMOD is a self-hosted domain management platform for tracking domain portfolios, DNS settings, expiration dates, and registrar information in one central dashboard.
+version: 1.0.0
+
+files:
+  - compose.d/domainmod.yml
+
+logo: logos/domainmod.png
+category: Networking
+
+tags:
+  - domains
+  - dns
+  - portfolio
+  - management
+  - self-hosted
+  - networking

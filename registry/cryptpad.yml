@@ -1,0 +1,19 @@
+id: cryptpad
+name: CryptPad
+title: CryptPad
+description: CryptPad is a self-hosted, privacy-focused collaborative office suite that allows teams to create, edit, and share documents, spreadsheets, polls, and more with end-to-end encryption.
+version: 1.0.0
+
+files:
+  - compose.d/cryptpad.yml
+
+logo: logos/cryptpad.png
+category: Productivity
+
+tags:
+  - collaboration
+  - office
+  - documents
+  - privacy
+  - encrypted
+  - self-hosted

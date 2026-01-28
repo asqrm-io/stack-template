@@ -1,0 +1,19 @@
+id: frappe-hr
+name: Frappe HR
+title: Frappe
+description: Frappe HR is a self-hosted human resource management platform built on the Frappe framework, providing employee management, attendance, leave tracking, payroll, and performance management.
+version: 1.0.0
+
+files:
+  - compose.d/frappe-hr.yml
+
+logo: logos/frappe-hr.png
+category: Productivity
+
+tags:
+  - hr
+  - hrm
+  - payroll
+  - attendance
+  - employee-management
+  - self-hosted

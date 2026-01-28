@@ -1,0 +1,17 @@
+id: outline
+name: Outline
+title: Outline
+description: Self-hosted knowledge base for teams with collaborative documentation and wiki-style pages.
+version: 1.0.0
+
+files:
+  - compose.d/outline.yml
+
+logo: logos/outline.png
+category: Collaboration
+
+tags:
+  - wiki
+  - knowledge
+  - documentation
+  - team

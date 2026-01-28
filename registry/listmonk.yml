@@ -1,0 +1,18 @@
+id: listmonk
+name: Listmonk
+title: Listmonk
+description: A high-performance self-hosted newsletter and mailing list manager with a modern dashboard and fast bulk email sending.
+version: 1.0.0
+
+files:
+  - compose.d/listmonk.yml
+
+logo: logos/listmonk.png
+category: Productivity
+
+tags:
+  - newsletter
+  - email
+  - marketing
+  - campaigns
+  - mailing-list

@@ -1,0 +1,19 @@
+id: webtop
+name: WebTop
+title: WebTop
+description: WebTop is a self-hosted web desktop and collaboration platform that provides email, calendar, contacts, file management, and productivity tools accessible via a browser.
+version: 1.0.0
+
+files:
+  - compose.d/webtop.yml
+
+logo: logos/webtop.png
+category: Productivity
+
+tags:
+  - desktop
+  - collaboration
+  - email
+  - calendar
+  - productivity
+  - self-hosted

@@ -1,0 +1,19 @@
+id: beszel
+name: Beszel
+title: Beszel
+description: Beszel is a self-hosted infrastructure and application monitoring platform for collecting metrics, visualizing performance, and setting up alerts for servers, containers, and services.
+version: 1.0.0
+
+files:
+  - compose.d/beszel.yml
+
+logo: logos/beszel.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - metrics
+  - alerting
+  - uptime
+  - server
+  - container

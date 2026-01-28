@@ -1,0 +1,19 @@
+id: cloudbeaver
+name: cloudbeaver
+title: CloudBeaver
+description: CloudBeaver is a web-based, self-hosted database management tool that provides a modern interface for managing SQL and NoSQL databases, supporting multiple connections and user roles.
+version: 1.0.0
+
+files:
+  - compose.d/cloudbeaver.yml
+
+logo: logos/cloudbeaver.png
+category: Database
+
+tags:
+  - database
+  - sql
+  - nosql
+  - management
+  - web-ui
+  - self-hosted

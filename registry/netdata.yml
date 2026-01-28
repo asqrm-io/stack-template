@@ -1,0 +1,17 @@
+id: netdata
+name: Netdata
+title: Netdata
+description: A high-performance monitoring suite that provides real-time insights into systems, containers, and applications.
+version: 1.0.0
+
+files:
+  - compose.d/netdata.yml
+
+logo: logos/netdata.png
+category: Monitoring
+
+tags:
+  - real-time
+  - monitoring
+  - observability
+  - dashboard

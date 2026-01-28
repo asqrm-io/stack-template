@@ -1,0 +1,19 @@
+id: hasura
+name: Hasura
+title: Hasura
+description: Hasura is a self-hosted GraphQL engine that instantly provides a real-time GraphQL API on top of PostgreSQL, with built-in authorization, remote schemas, and event triggers.
+version: 1.0.0
+
+files:
+  - compose.d/hasura.yml
+
+logo: logos/hasura.png
+category: Database
+
+tags:
+  - graphql
+  - api
+  - realtime
+  - postgresql
+  - backend
+  - self-hosted

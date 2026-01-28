@@ -1,0 +1,19 @@
+id: harbor
+name: Harbor
+title: Harbor
+description: Harbor is a self-hosted cloud-native registry that stores, signs, and scans container images for vulnerabilities. It provides role-based access control, replication, and auditing features.
+version: 1.0.0
+
+files:
+  - compose.d/harbor.yml
+
+logo: logos/harbor.png
+category: DevOps
+
+tags:
+  - container
+  - registry
+  - docker
+  - kubernetes
+  - security
+  - self-hosted

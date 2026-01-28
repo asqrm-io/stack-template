@@ -1,0 +1,19 @@
+id: gatus
+name: Gatus
+title: Gatus
+description: Gatus is a self-hosted service and endpoint monitoring platform that performs health checks, monitors uptime, and triggers alerts when services go down.
+version: 1.0.0
+
+files:
+  - compose.d/gatus.yml
+
+logo: logos/gatus.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - uptime
+  - health-check
+  - alerting
+  - self-hosted
+  - observability

@@ -1,0 +1,17 @@
+id: nextcloud
+name: Nextcloud
+title: Nextcloud
+description: A self-hosted cloud storage and collaboration platform with file sync, calendar, contacts, and apps.
+version: 1.0.0
+
+files:
+  - compose.d/nextcloud.yml
+
+logo: logos/nextcloud.png
+category: Storage
+
+tags:
+  - cloud
+  - storage
+  - collaboration
+  - sync

@@ -1,0 +1,19 @@
+id: minio
+name: MinIO
+title: MinIO
+description: High-performance S3-compatible object storage for cloud-native applications and backup solutions.
+version: 1.0.0
+
+files:
+  - compose.d/minio.yml
+
+logo: logos/minio.png
+category: Storage
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - s3
+  - object-storage
+  - cloud-native
+  - backup

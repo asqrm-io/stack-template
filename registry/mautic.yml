@@ -1,0 +1,19 @@
+id: mautic
+name: Mautic
+title: Mautic
+description: Mautic is a self-hosted marketing automation platform that provides email marketing, campaign management, lead tracking, and analytics for businesses and organizations.
+version: 1.0.0
+
+files:
+  - compose.d/mautic.yml
+
+logo: logos/mautic.png
+category: Productivity
+
+tags:
+  - marketing
+  - automation
+  - email
+  - campaigns
+  - analytics
+  - self-hosted

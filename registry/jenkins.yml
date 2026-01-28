@@ -1,0 +1,17 @@
+id: jenkins
+name: Jenkins
+title: Jenkins
+description: The leading open-source automation server for CI/CD pipelines, integrations, and build automation.
+version: 1.0.0
+
+files:
+  - compose.d/jenkins.yml
+
+logo: logos/jenkins.png
+category: DevOps
+
+tags:
+  - ci-cd
+  - pipeline
+  - automation
+  - devops

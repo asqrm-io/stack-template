@@ -1,0 +1,17 @@
+id: kimai
+name: Kimai
+title: Kimai
+description: Open-source time tracking software for individuals and teams with reporting and invoicing.
+version: 1.0.0
+
+files:
+  - compose.d/kimai.yml
+
+logo: logos/kimai.png
+category: Productivity
+
+tags:
+  - time-tracking
+  - productivity
+  - reporting
+  - invoicing

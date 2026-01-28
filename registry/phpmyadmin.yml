@@ -1,0 +1,20 @@
+id: phpmyadmin
+name: phpMyAdmin
+title: phpMyAdmin
+description: phpMyAdmin is a popular web-based administration tool for MySQL and MariaDB databases, offering query execution, table management, import/export, and server monitoring through an intuitive UI.
+version: 1.0.0
+
+files:
+  - compose.d/phpmyadmin.yml
+
+logo: logos/phpmyadmin.png
+category: Database
+
+tags:
+  - mysql
+  - mariadb
+  - database
+  - admin
+  - management
+  - gui
+  - self-hosted

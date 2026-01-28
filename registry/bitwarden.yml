@@ -1,0 +1,18 @@
+id: bitwarden
+name: Bitwarden
+title: Bitwarden Server
+description: A secure open-source password manager with vault syncing and user management.
+version: 1.0.0
+
+files:
+  - compose.d/bitwarden.yml
+
+logo: logos/bitwarden.png
+category: Security
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - password-manager
+  - vault
+  - security

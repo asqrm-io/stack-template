@@ -1,0 +1,17 @@
+id: taiga
+name: Taiga
+title: Taiga Agile
+description: Self-hosted project management tool for agile teams with backlog, sprint, and issue tracking.
+version: 1.0.0
+
+files:
+  - compose.d/taiga.yml
+
+logo: logos/taiga.png
+category: Collaboration
+
+tags:
+  - agile
+  - kanban
+  - project-management
+  - sprint

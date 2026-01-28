@@ -1,0 +1,17 @@
+id: smokeping
+name: SmokePing
+title: SmokePing
+description: Deploy SmokePing to measure network latency and packet loss over time using ICMP, TCP, and other probes.
+version: 1.0.0
+
+files:
+  - compose.d/smokeping.yml
+
+logo: logos/smokeping.png
+category: monitoring
+
+tags:
+  - network
+  - latency
+  - monitoring
+  - icmp

@@ -1,0 +1,19 @@
+id: confluence
+name: Confluence
+title: Atlassian Confluence
+description: Confluence is a collaborative team workspace for creating, sharing, and managing documents, knowledge bases, and project documentation. It is ideal for teams seeking a self-hosted knowledge management solution.
+version: 1.0.0
+
+files:
+  - compose.d/confluence.yml
+
+logo: logos/confluence.png
+category: Productivity
+
+tags:
+  - documentation
+  - knowledge-base
+  - collaboration
+  - wiki
+  - self-hosted
+  - team

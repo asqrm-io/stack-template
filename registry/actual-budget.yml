@@ -1,0 +1,21 @@
+id: actual-budget
+name: actual-budget
+title: Actual Budget
+description: Actual Budget is a self-hosted personal finance and budgeting platform for tracking expenses, income, accounts, and financial goals with a simple web interface.
+version: 1.0.0
+
+files:
+  - compose.d/actual-budget.yml
+
+logo: logos/actual-budget.png
+category: Productivity
+popular: true
+github: https://github.com/actualbudget/actual
+
+tags:
+  - finance
+  - budgeting
+  - personal-finance
+  - accounts
+  - expenses
+  - self-hosted

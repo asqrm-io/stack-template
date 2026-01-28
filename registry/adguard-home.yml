@@ -1,0 +1,18 @@
+id: adguard-home
+name: adguard-home
+title: AdGuard
+description: A DNS-level ad blocker and privacy solution for home and enterprise networks.
+version: 1.0.0
+
+files:
+  - compose.d/adguard-home.yml
+
+logo: logos/adguard-home.png
+category: Networking
+popular: true
+
+tags:
+  - adblock
+  - dns
+  - privacy
+  - filter

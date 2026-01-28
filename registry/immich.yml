@@ -1,0 +1,19 @@
+id: immich
+name: Immich
+title: Immich
+description: Self-hosted platform for automatically backing up, organizing, and sharing photos and videos with cloud-like features, fully Docker-ready.
+version: 1.0.0
+
+files:
+  - compose.d/immich.yml
+
+logo: logos/immich.png
+category: Productivity
+
+tags:
+  - media
+  - photos
+  - videos
+  - backup
+  - gallery
+  - self-hosted

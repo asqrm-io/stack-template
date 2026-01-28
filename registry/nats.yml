@@ -1,0 +1,17 @@
+id: nats
+name: NATS
+title: NATS
+description: A high-performance messaging platform optimized for microservices, streaming, and event-driven systems.
+version: 1.0.0
+
+files:
+  - compose.d/nats.yml
+
+logo: logos/nats.png
+category: Messaging
+
+tags:
+  - streaming
+  - mq
+  - pubsub
+  - microservices

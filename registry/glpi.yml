@@ -1,0 +1,19 @@
+id: glpi
+name: GLPI
+title: GLPI
+description: GLPI is an open-source ITSM platform for managing assets, tickets, inventory, helpdesk operations, and service workflows. Ideal for IT departments and enterprise infrastructure.
+version: 1.0.0
+
+files:
+  - compose.d/glpi.yml
+
+logo: logos/glpi.png
+category: Productivity
+
+tags:
+  - itsm
+  - helpdesk
+  - asset-management
+  - inventory
+  - service-desk
+  - infrastructure

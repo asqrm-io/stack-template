@@ -1,0 +1,17 @@
+id: zookeeper
+name: Apache ZooKeeper
+title: Apache ZooKeeper
+description: Deploy Apache ZooKeeper, a centralized service for maintaining configuration information, naming, synchronization, and distributed coordination.
+version: 1.0.0
+
+files:
+  - compose.d/zookeeper.yml
+
+logo: logos/zookeeper.png
+category: DevOps
+
+tags:
+  - coordination
+  - distributed
+  - config
+  - consensus

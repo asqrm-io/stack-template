@@ -1,0 +1,20 @@
+id: odoo
+name: Odoo
+title: Odoo
+description: An open-source business application suite providing CRM, accounting, inventory, HR, POS, and more in a modular ERP system.
+version: 1.0.0
+
+files:
+  - compose.d/odoo.yml
+
+logo: logos/odoo.png
+category: Productivity
+
+tags:
+  - erp
+  - business
+  - crm
+  - accounting
+  - inventory
+  - hr
+  - pos

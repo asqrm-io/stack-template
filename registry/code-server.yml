@@ -1,0 +1,17 @@
+id: code-server
+name: Code Server
+title: Code Server
+description: Self-hosted Visual Studio Code accessible via the browser for remote development.
+version: 1.0.0
+
+files:
+  - compose.d/code-server.yml
+
+logo: logos/code-server.png
+category: DevOps
+
+tags:
+  - ide
+  - vscode
+  - development
+  - remote

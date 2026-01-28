@@ -1,0 +1,17 @@
+id: crowdsec
+name: CrowdSec
+title: CrowdSec
+description: Collaborative, open-source security engine for real-time detection and protection against attacks.
+version: 1.0.0
+
+files:
+  - compose.d/crowdsec.yml
+
+logo: logos/crowdsec.png
+category: Security
+
+tags:
+  - firewall
+  - security
+  - intrusion-detection
+  - logs

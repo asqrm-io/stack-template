@@ -1,0 +1,17 @@
+id: pihole
+name: Pi-hole
+title: Pi-hole
+description: A network-wide ad blocker using DNS filtering, ideal for home and self-hosted networks.
+version: 1.0.0
+
+files:
+  - compose.d/pihole.yml
+
+logo: logos/pihole.png
+category: Networking
+
+tags:
+  - dns
+  - adblock
+  - networking
+  - privacy

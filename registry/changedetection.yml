@@ -1,0 +1,19 @@
+id: changedetection
+name: Changedetection.io
+title: Changedetection.io
+description: Changedetection.io is a self-hosted platform for monitoring websites for content changes, sending alerts when updates are detected, and keeping track of historical changes.
+version: 1.0.0
+
+files:
+  - compose.d/changedetection.yml
+
+logo: logos/changedetection.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - website
+  - change-detection
+  - alerts
+  - self-hosted
+  - tracking

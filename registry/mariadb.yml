@@ -1,0 +1,16 @@
+id: mariadb
+name: MariaDB
+title: MariaDB
+description: A community-driven, high-performance MySQL-compatible relational database system.
+version: 1.0.0
+
+files:
+  - compose.d/mariadb.yml
+
+logo: logos/mariadb.png
+category: Database
+
+tags:
+  - sql
+  - mysql
+  - database

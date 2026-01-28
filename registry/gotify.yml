@@ -1,0 +1,19 @@
+id: gotify
+name: Gotify
+title: Gotify
+description: Gotify is a self-hosted server for sending and receiving real-time push notifications. It provides an API and web interface for creating, managing, and subscribing to notifications.
+version: 1.0.0
+
+files:
+  - compose.d/gotify.yml
+
+logo: logos/gotify.png
+category: Networking
+
+tags:
+  - notifications
+  - push
+  - messaging
+  - self-hosted
+  - alerting
+  - server

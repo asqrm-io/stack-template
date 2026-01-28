@@ -1,0 +1,17 @@
+id: meilisearch
+name: Meilisearch
+title: Meilisearch
+description: Lightning-fast search engine for web applications with typo-tolerance and relevance ranking.
+version: 1.0.0
+
+files:
+  - compose.d/meilisearch.yml
+
+logo: logos/meilisearch.png
+category: Search
+
+tags:
+  - search
+  - engine
+  - full-text
+  - fast

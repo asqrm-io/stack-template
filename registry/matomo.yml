@@ -1,0 +1,17 @@
+id: matomo
+name: Matomo
+title: Matomo
+description: A self-hosted analytics platform for visitor tracking, heatmaps, funnels, and insights.
+version: 1.0.0
+
+files:
+  - compose.d/matomo.yml
+
+logo: logos/matomo.png
+category: Analytics
+
+tags:
+  - analytics
+  - tracking
+  - statistics
+  - privacy

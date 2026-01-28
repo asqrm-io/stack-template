@@ -1,0 +1,19 @@
+id: filebrowser-quantum
+name: FileBrowser Quantum
+title: FileBrowser Quantum
+description: FileBrowser Quantum is an advanced self-hosted web-based file management platform that provides secure file browsing, uploads, downloads, and organization with modern features and enhanced performance.
+version: 1.0.0
+
+files:
+  - compose.d/filebrowser-quantum.yml
+
+logo: logos/filebrowser-quantum.png
+category: Storage
+
+tags:
+  - files
+  - file-management
+  - web-ui
+  - storage
+  - self-hosted
+  - quantum

@@ -1,0 +1,16 @@
+id: vaultwarden
+name: Vaultwarden
+title: Vaultwarden
+description: A lightweight, self-hosted password manager compatible with Bitwarden clients.
+version: 1.0.0
+
+files:
+  - compose.d/vaultwarden.yml
+
+logo: logos/vaultwarden.png
+category: Security
+
+tags:
+  - password-manager
+  - bitwarden
+  - security

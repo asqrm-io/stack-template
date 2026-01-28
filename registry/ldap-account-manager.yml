@@ -1,0 +1,19 @@
+id: ldap-account-manager
+name: LDAP Account Manager
+title: LDAP Account Manager
+description: LDAP Account Manager (LAM) is a web-based tool for managing LDAP directories, users, groups, and organizational units, providing an intuitive interface for administrators.
+version: 1.0.0
+
+files:
+  - compose.d/ldap-account-manager.yml
+
+logo: logos/ldap-account-manager.png
+category: Authentication
+
+tags:
+  - ldap
+  - directory
+  - users
+  - groups
+  - authentication
+  - self-hosted

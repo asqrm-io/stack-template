@@ -1,0 +1,19 @@
+id: sveltekit
+name: SvelteKit
+title: SvelteKit
+description: SvelteKit is a framework for building Svelte applications with server-side rendering, static site generation, and full-stack capabilities for highly optimized web apps.
+version: 1.0.0
+
+files:
+  - compose.d/sveltekit.yml
+
+logo: logos/sveltekit.png
+category: Framework
+
+tags:
+  - svelte
+  - ssr
+  - ssg
+  - javascript
+  - frontend
+  - self-hosted

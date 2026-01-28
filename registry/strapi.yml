@@ -1,0 +1,19 @@
+id: strapi
+name: Strapi
+title: Strapi Headless CMS
+description: A modern headless CMS for building APIs quickly using a customizable admin panel.
+version: 1.0.0
+
+files:
+  - compose.d/strapi.yml
+
+logo: logos/strapi.png
+category: Backend
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - api
+  - headless
+  - cms
+  - nodejs

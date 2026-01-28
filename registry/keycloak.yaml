@@ -1,0 +1,20 @@
+id: keycloak
+name: Keycloak
+title: Keycloak
+description: Open-source identity and access management with SSO, OAuth2, and OpenID Connect.
+version: 1.0.0
+
+files:
+  - compose.d/keycloak.yml
+
+logo: logos/keycloak.png
+category: Authentication
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - sso
+  - oauth2
+  - oidc
+  - identity
+  - auth

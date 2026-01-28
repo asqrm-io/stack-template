@@ -1,0 +1,19 @@
+id: checkmate
+name: Checkmate
+title: Checkmate
+description: Checkmate is a self-hosted monitoring and alerting platform for servers, containers, and applications, helping teams track uptime, performance, and metrics in real time.
+version: 1.0.0
+
+files:
+  - compose.d/checkmate.yml
+
+logo: logos/checkmate.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - alerting
+  - uptime
+  - metrics
+  - server
+  - container

@@ -1,0 +1,19 @@
+id: uptime-kuma
+name: Uptime Kuma
+title: Uptime Kuma
+description: A beautiful self-hosted monitoring tool that tracks uptime, latency, and service status.
+version: 1.0.0
+
+files:
+  - compose.d/uptime-kuma.yml
+
+logo: logos/uptime-kuma.png
+category: Monitoring
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - monitoring
+  - uptime
+  - alerts
+  - status-page

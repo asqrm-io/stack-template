@@ -1,0 +1,20 @@
+id: pgbackweb
+name: pgBackWeb
+title: pgBackWeb
+description: pgBackWeb is a self-hosted web UI for managing PostgreSQL backups, leveraging pgBackRest to schedule, monitor, and restore backups with an intuitive dashboard.
+version: 1.0.0
+
+files:
+  - compose.d/pgbackweb.yml
+
+logo: logos/pgbackweb.png
+category: Database
+
+tags:
+  - postgres
+  - backup
+  - restore
+  - pgbackrest
+  - database
+  - management
+  - self-hosted

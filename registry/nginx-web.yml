@@ -1,0 +1,19 @@
+id: nginx-web
+name: nginx-web
+title: nginx-web
+description: Deploy a lightweight and high-performance NGINX web server for serving static or dynamic content.
+version: 1.0.0
+
+files:
+  - compose.d/nginx-web.yml
+
+logo: logos/nginx.png
+category: Web Server
+popular: true
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - web
+  - reverse-proxy
+  - http

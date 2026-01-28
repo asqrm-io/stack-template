@@ -1,0 +1,17 @@
+id: nocodb
+name: NocoDB
+title: NocoDB
+description: Turn any SQL database into a smart spreadsheet-style interface for no-code apps.
+version: 1.0.0
+
+files:
+  - compose.d/nocodb.yml
+
+logo: logos/nocodb.png
+category: Productivity
+
+tags:
+  - nocode
+  - database
+  - spreadsheet
+  - productivity

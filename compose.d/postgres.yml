@@ -1,0 +1,13 @@
+name: postgres-qrm
+services:
+  postgres:
+    image: postgres:alpine
+    container_name: pocketbase-postgres
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass
+    volumes:
+      - ./pg_data:/var/lib/postgresql-qrm/data
+    # optional: only expose to host if you need to connect from outside docker
+    ports:
+      - "6432:5432"

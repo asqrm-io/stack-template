@@ -1,0 +1,19 @@
+id: invoiceninja
+name: Invoice Ninja
+title: Invoice Ninja
+description: Invoice Ninja is a self-hosted platform for creating invoices, tracking expenses, managing clients, and handling online payments with a modern and intuitive interface.
+version: 1.0.0
+
+files:
+  - compose.d/invoiceninja.yml
+
+logo: logos/invoiceninja.png
+category: Productivity
+
+tags:
+  - invoicing
+  - billing
+  - payments
+  - clients
+  - expenses
+  - self-hosted

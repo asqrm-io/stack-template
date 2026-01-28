@@ -1,0 +1,17 @@
+id: mosquitto
+name: Mosquitto
+title: Mosquitto
+description: A lightweight and efficient MQTT message broker ideal for IoT and real-time communication.
+version: 1.0.0
+
+files:
+  - compose.d/mosquitto.yml
+
+logo: logos/mosquitto.png
+category: Messaging
+
+tags:
+  - mqtt
+  - iot
+  - broker
+  - real-time

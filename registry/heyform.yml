@@ -1,0 +1,18 @@
+id: heyform
+name: HeyForm
+title: HeyForm
+description: Self-hosted form and survey builder platform for creating forms, polls, and surveys with easy data collection and management.
+version: 1.0.0
+
+files:
+  - compose.d/heyform.yml
+
+logo: logos/heyform.png
+category: Productivity
+
+tags:
+  - forms
+  - surveys
+  - data-collection
+  - productivity
+  - self-hosted

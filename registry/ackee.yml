@@ -1,0 +1,19 @@
+id: ackee
+name: ackee
+title: Ackee
+description: Deploy Ackee, a self-hosted, privacy-focused web analytics tool designed as a lightweight alternative to Google Analytics.
+version: 1.0.0
+
+files:
+  - compose.d/ackee.yml
+
+logo: logos/ackee.png
+category: analytics
+popular: false
+github: https://github.com/electerious/Ackee
+
+tags:
+  - analytics
+  - privacy
+  - tracking
+  - web

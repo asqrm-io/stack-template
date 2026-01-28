@@ -1,0 +1,17 @@
+id: qrm-gateway
+name: QRM Gateway
+title: QRM API Gateway
+description: Core gateway service of QRM that handles API routing, authentication, and service orchestration for all container stacks.
+version: 1.0.0
+
+files:
+  - compose.d/qrm-gateway.yml
+
+logo: logos/qrm-gateway.png
+category: Networking
+
+tags:
+  - api-gateway
+  - proxy
+  - orchestration
+  - devops

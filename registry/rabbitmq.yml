@@ -1,0 +1,19 @@
+id: rabbitmq
+name: RabbitMQ
+title: RabbitMQ
+description: A reliable and widely used message broker supporting AMQP, MQTT, STOMP, and scalable distributed messaging.
+version: 1.0.0
+
+files:
+  - compose.d/rabbitmq.yml
+
+logo: logos/rabbitmq.png
+category: Messaging
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - message-queue
+  - mq
+  - amqp
+  - broker

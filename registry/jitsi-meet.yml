@@ -1,0 +1,19 @@
+id: jitsi-meet
+name: Jitsi Meet
+title: Jitsi Meet
+description: Jitsi Meet is a self-hosted, secure, and fully-featured video conferencing platform that allows teams to host meetings, webinars, and online collaboration without relying on third-party services.
+version: 1.0.0
+
+files:
+  - compose.d/jitsi-meet.yml
+
+logo: logos/jitsi-meet.png
+category: Collaboration
+
+tags:
+  - video
+  - conferencing
+  - meetings
+  - webinar
+  - collaboration
+  - self-hosted

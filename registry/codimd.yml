@@ -1,0 +1,19 @@
+id: codimd
+name: CodiMD
+title: CodiMD
+description: CodiMD (also known as HedgeDoc) is a self-hosted real-time collaborative Markdown editor for teams, allowing multiple users to create, edit, and share documents simultaneously.
+version: 1.0.0
+
+files:
+  - compose.d/codimd.yml
+
+logo: logos/codimd.png
+category: Productivity
+
+tags:
+  - markdown
+  - collaboration
+  - documents
+  - self-hosted
+  - real-time
+  - editor

@@ -1,0 +1,17 @@
+id: focalboard
+name: Focalboard
+title: Focalboard
+description: Open-source project and task management system for teams, self-hosted alternative to Trello.
+version: 1.0.0
+
+files:
+  - compose.d/focalboard.yml
+
+logo: logos/focalboard.png
+category: Collaboration
+
+tags:
+  - project-management
+  - kanban
+  - tasks
+  - productivity

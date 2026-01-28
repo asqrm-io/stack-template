@@ -1,0 +1,18 @@
+id: plausible
+name: Plausible Analytics
+title: Plausible
+description: A lightweight, privacy-focused web analytics tool and Google Analytics alternative.
+version: 1.0.0
+
+files:
+  - compose.d/plausible.yml
+
+logo: logos/plausible.png
+category: Analytics
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - analytics
+  - privacy
+  - stats

@@ -1,0 +1,18 @@
+id: docnative
+name: DocNative
+title: DocNative
+description: Self-hosted documentation platform that supports Markdown and syncs directly with Git repositories for versioned content.
+version: 1.0.0
+
+files:
+  - compose.d/docnative.yml
+
+logo: logos/docnative.png
+category: Productivity
+
+tags:
+  - documentation
+  - markdown
+  - git
+  - version-control
+  - knowledge

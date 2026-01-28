@@ -1,0 +1,19 @@
+id: onlyoffice
+name: OnlyOffice
+title: OnlyOffice
+description: OnlyOffice is a powerful self-hosted collaborative office suite supporting real-time editing of documents, spreadsheets, and presentations. It integrates with many platforms and provides full compatibility with MS Office formats.
+version: 1.0.0
+
+files:
+  - compose.d/onlyoffice.yml
+
+logo: logos/onlyoffice.png
+category: Productivity
+
+tags:
+  - office
+  - documents
+  - collaborative
+  - editing
+  - productivity
+  - self-hosted

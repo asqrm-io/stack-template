@@ -1,0 +1,17 @@
+id: firefly-iii
+name: Firefly III
+title: Firefly
+description: Self-hosted personal finance manager for budgeting, accounts, and expense tracking.
+version: 1.0.0
+
+files:
+  - compose.d/firefly-iii.yml
+
+logo: logos/firefly-iii.png
+category: Productivity
+
+tags:
+  - finance
+  - budgeting
+  - accounting
+  - personal-finance

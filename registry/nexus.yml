@@ -1,0 +1,17 @@
+id: nexus
+name: Nexus Repository
+title: Sonatype
+description: A universal artifact repository manager supporting Docker, Maven, npm, PyPI, Helm, and more.
+version: 1.0.0
+
+files:
+  - compose.d/nexus.yml
+
+logo: logos/nexus.png
+category: DevOps
+
+tags:
+  - repository
+  - artifacts
+  - docker-registry
+  - ci-cd

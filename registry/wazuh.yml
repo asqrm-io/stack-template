@@ -1,0 +1,19 @@
+id: wazuh
+name: Wazuh
+title: Wazuh
+description: Wazuh is a self-hosted security monitoring platform that provides intrusion detection, log analysis, vulnerability detection, and compliance monitoring for IT infrastructure.
+version: 1.0.0
+
+files:
+  - compose.d/wazuh.yml
+
+logo: logos/wazuh.png
+category: Security
+
+tags:
+  - security
+  - monitoring
+  - intrusion-detection
+  - log-analysis
+  - compliance
+  - self-hosted

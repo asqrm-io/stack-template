@@ -1,0 +1,19 @@
+id: pairdrop
+name: PairDrop
+title: PairDrop
+description: PairDrop is a self-hosted, local-first file sharing tool inspired by Snapdrop, allowing devices on the same network to transfer files instantly through the browser.
+version: 1.0.0
+
+files:
+  - compose.d/pairdrop.yml
+
+logo: logos/pairdrop.png
+category: Storage
+
+tags:
+  - filesharing
+  - snapdrop
+  - local
+  - realtime
+  - web
+  - self-hosted

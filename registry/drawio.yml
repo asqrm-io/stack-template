@@ -1,0 +1,19 @@
+id: drawio
+name: Draw.io
+title: Draw.io
+description: Self-hosted Draw.io (Diagrams.net) diagram editor for creating technical diagrams, flowcharts, architecture maps, and visual documentation.
+version: 1.0.0
+
+files:
+  - compose.d/drawio.yml
+
+logo: logos/drawio.png
+category: Productivity
+
+tags:
+  - diagrams
+  - drawing
+  - flowchart
+  - documentation
+  - uml
+  - design

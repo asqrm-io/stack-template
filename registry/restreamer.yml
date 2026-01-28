@@ -1,0 +1,17 @@
+id: restreamer
+name: Restreamer
+title: Restreamer
+description: Self-hosted video streaming server to broadcast RTSP streams to web clients.
+version: 1.0.0
+
+files:
+  - compose.d/restreamer.yml
+
+logo: logos/restreamer.png
+category: Media
+
+tags:
+  - streaming
+  - video
+  - rtsp
+  - web

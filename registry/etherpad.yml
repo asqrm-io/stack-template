@@ -1,0 +1,17 @@
+id: etherpad
+name: Etherpad
+title: Etherpad
+description: Real-time collaborative text editor for notes, documents, and teamwork.
+version: 1.0.0
+
+files:
+  - compose.d/etherpad.yml
+
+logo: logos/etherpad.png
+category: Collaboration
+
+tags:
+  - collaborative
+  - editor
+  - realtime
+  - notes

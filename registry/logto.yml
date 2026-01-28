@@ -1,0 +1,19 @@
+id: logto
+name: Logto
+title: Logto
+description: Self-hosted modern authentication platform providing login, user management, OIDC, social sign-in, and machine-to-machine auth. An open-source alternative to Auth0.
+version: 1.0.0
+
+files:
+  - compose.d/logto.yml
+
+logo: logos/logto.png
+category: Authentication
+
+tags:
+  - auth
+  - oidc
+  - sso
+  - identity
+  - access-control
+  - auth0-alternative

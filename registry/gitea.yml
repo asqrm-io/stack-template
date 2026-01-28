@@ -1,0 +1,17 @@
+id: gitea
+name: Gitea
+title: Gitea Server
+description: A lightweight and self-hosted Git service with an easy-to-use interface and integrated CI/CD features.
+version: 1.0.0
+
+files:
+  - compose.d/gitea.yml
+
+logo: logos/gitea.png
+category: DevOps
+
+tags:
+  - git
+  - source-control
+  - devops
+  - ci-cd

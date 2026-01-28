@@ -1,0 +1,18 @@
+id: hi-events
+name: Hi.events
+title: Hi.events
+description: Self-hosted event management and scheduling platform for creating, managing, and tracking events, tickets, and attendees.
+version: 1.0.0
+
+files:
+  - compose.d/hi-events.yml
+
+logo: logos/hi-events.png
+category: Productivity
+
+tags:
+  - events
+  - scheduling
+  - tickets
+  - management
+  - calendar

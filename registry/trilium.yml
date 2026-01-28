@@ -1,0 +1,17 @@
+id: trilium
+name: Trilium Notes
+title: Trilium
+description: Self-hosted hierarchical note-taking and personal knowledge management system.
+version: 1.0.0
+
+files:
+  - compose.d/trilium.yml
+
+logo: logos/trilium.png
+category: Productivity
+
+tags:
+  - notes
+  - knowledge
+  - personal
+  - productivity

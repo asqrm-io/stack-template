@@ -1,0 +1,20 @@
+id: pocketbase
+name: PocketBase
+title: PocketBase (SQLite)
+description: Lightweight, self-hosted backend with database, real-time subscriptions, authentication, and file storage.
+version: 1.0.0
+
+files:
+  - compose.d/pocketbase.yml
+
+logo: logos/pocketbase.png
+category: Backend
+popular: true
+github: https://github.com/pocketbase/pocketbase
+
+tags:
+  - backend
+  - realtime
+  - database
+  - auth
+  - file-storage

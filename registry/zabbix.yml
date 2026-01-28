@@ -1,0 +1,19 @@
+id: zabbix
+name: Zabbix
+title: Zabbix
+description: Zabbix is a self-hosted enterprise-grade monitoring platform for networks, servers, cloud services, and applications, offering alerting, visualization, and reporting tools.
+version: 1.0.0
+
+files:
+  - compose.d/zabbix.yml
+
+logo: logos/zabbix.png
+category: Monitoring
+
+tags:
+  - monitoring
+  - network
+  - server
+  - alerting
+  - visualization
+  - self-hosted

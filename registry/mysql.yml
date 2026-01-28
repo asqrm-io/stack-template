@@ -1,0 +1,19 @@
+id: mysql
+name: MySQL
+title: MySQL
+description: MySQL is a widely-used, open-source relational database management system that stores, manages, and retrieves structured data efficiently. Ideal for web, application, and enterprise databases.
+version: 1.0.0
+
+files:
+  - compose.d/mysql.yml
+
+logo: logos/mysql.png
+category: Database
+
+tags:
+  - database
+  - relational
+  - sql
+  - mysql
+  - storage
+  - self-hosted

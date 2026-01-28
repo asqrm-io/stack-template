@@ -1,0 +1,20 @@
+id: postgrebase
+name: postgrebase
+title: PocketBase (Postgres)
+description: Self-hosted PocketBase backend configured to use PostgreSQL for database storage, suitable for production environments.
+version: 1.0.0
+
+files:
+  - compose.d/postgrebase.yml
+
+logo: logos/postgrebase.png
+category: Backend
+popular: true
+github: https://github.com/pocketbase/pocketbase
+
+tags:
+  - backend
+  - realtime
+  - postgresql
+  - database
+  - auth

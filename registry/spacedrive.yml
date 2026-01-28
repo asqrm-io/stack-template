@@ -1,0 +1,19 @@
+id: spacedrive
+name: Spacedrive
+title: Spacedrive
+description: Spacedrive is a self-hosted cloud storage and file management platform that allows teams to store, sync, and share files securely across devices.
+version: 1.0.0
+
+files:
+  - compose.d/spacedrive.yml
+
+logo: logos/spacedrive.png
+category: Storage
+
+tags:
+  - cloud
+  - storage
+  - file-sharing
+  - sync
+  - self-hosted
+  - backup

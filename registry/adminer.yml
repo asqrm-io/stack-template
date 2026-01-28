@@ -1,0 +1,19 @@
+id: adminer
+name: adminer
+title: Adminer
+description: Adminer is a lightweight, full-featured database management tool for MySQL, PostgreSQL, SQLite, and other databases. Provides a web-based interface for managing databases securely and efficiently.
+version: 1.0.0
+
+files:
+  - compose.d/adminer.yml
+
+logo: logos/adminer.png
+category: Database
+
+tags:
+  - database
+  - sql
+  - mysql
+  - postgresql
+  - management
+  - web-ui

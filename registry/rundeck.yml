@@ -1,0 +1,19 @@
+id: rundeck
+name: Rundeck
+title: Rundeck
+description: Rundeck is a self-hosted runbook automation platform that allows teams to define, schedule, and execute tasks, workflows, and scripts across multiple servers with access control and logging.
+version: 1.0.0
+
+files:
+  - compose.d/rundeck.yml
+
+logo: logos/rundeck.png
+category: Automation
+
+tags:
+  - automation
+  - jobs
+  - workflow
+  - tasks
+  - server
+  - self-hosted

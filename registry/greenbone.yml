@@ -1,0 +1,19 @@
+id: greenbone
+name: Greenbone
+title: Greenbone
+description: Greenbone is a self-hosted vulnerability management platform for scanning, assessing, and reporting security vulnerabilities in networks, systems, and applications.
+version: 1.0.0
+
+files:
+  - compose.d/greenbone.yml
+
+logo: logos/greenbone.png
+category: Security
+
+tags:
+  - security
+  - vulnerability
+  - scanning
+  - monitoring
+  - self-hosted
+  - network

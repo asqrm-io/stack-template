@@ -1,0 +1,18 @@
+id: postgres
+name: postgres
+title: PostgreSQL
+description: A powerful open-source relational database system known for reliability, robustness, and advanced SQL capabilities.
+version: 1.0.0
+
+files:
+  - compose.d/postgres.yml
+
+logo: logos/postgres.png
+category: Database
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - sql
+  - relational
+  - database

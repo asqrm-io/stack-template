@@ -1,0 +1,19 @@
+id: linkstack
+name: LinkStack
+title: LinkStack
+description: LinkStack is a self-hosted platform for creating, managing, and sharing link pages, link trees, and short URLs for personal branding or marketing purposes.
+version: 1.0.0
+
+files:
+  - compose.d/linkstack.yml
+
+logo: logos/linkstack.png
+category: Productivity
+
+tags:
+  - links
+  - url
+  - shortener
+  - link-tree
+  - self-hosted
+  - marketing

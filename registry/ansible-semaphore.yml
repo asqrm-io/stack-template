@@ -1,0 +1,18 @@
+id: ansible-semaphore
+name: ansible-semaphore
+title: Ansible Semaphore UI
+description: Deploy Ansible Semaphore, a modern web-based UI for running and managing Ansible playbooks, inventories, and task automation.
+version: 1.0.0
+
+files:
+  - compose.d/ansible-semaphore.yml
+
+logo: logos/ansible-semaphore.png
+category: DevOps
+
+tags:
+  - ansible
+  - automation
+  - devops
+  - cicd
+  - orchestration

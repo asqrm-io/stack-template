@@ -1,0 +1,19 @@
+id: jupyter
+name: Jupyter
+title: Jupyter
+description: Jupyter is a self-hosted web-based interactive computing platform that allows users to create and share documents containing live code, equations, visualizations, and narrative text.
+version: 1.0.0
+
+files:
+  - compose.d/jupyter.yml
+
+logo: logos/jupyter.png
+category: Productivity
+
+tags:
+  - notebook
+  - data-science
+  - python
+  - analytics
+  - self-hosted
+  - interactive

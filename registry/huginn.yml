@@ -1,0 +1,17 @@
+id: huginn
+name: Huginn
+title: Huginn
+description: Create agents that monitor and automate tasks online, similar to a self-hosted IFTTT.
+version: 1.0.0
+
+files:
+  - compose.d/huginn.yml
+
+logo: logos/huginn.png
+category: Automation
+
+tags:
+  - workflow
+  - automation
+  - ifttt
+  - monitoring

@@ -1,0 +1,19 @@
+id: authelia
+name: Authelia
+title: Authelia
+description: A modern authentication and 2FA portal providing secure reverse-proxy authorization.
+version: 1.0.0
+
+files:
+  - compose.d/authelia.yml
+
+logo: logos/authelia.png
+category: Security
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - 2fa
+  - authentication
+  - reverse-proxy
+  - security

@@ -1,0 +1,19 @@
+id: haproxy
+name: HAProxy
+title: HAProxy
+description: A high-performance TCP/HTTP load balancer and reverse proxy for distributing traffic across multiple services.
+version: 1.0.0
+
+files:
+  - compose.d/haproxy.yml
+
+logo: logos/haproxy.png
+category: Web Server
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - load-balancer
+  - tcp
+  - reverse-proxy
+  - high-availability

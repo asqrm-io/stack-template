@@ -1,0 +1,18 @@
+id: docmost
+name: Docmost
+title: Docmost
+description: Self-hosted documentation platform for managing Markdown-based docs, knowledge bases, and versioned content with Git integration.
+version: 1.0.0
+
+files:
+  - compose.d/docmost.yml
+
+logo: logos/docmost.png
+category: Productivity
+
+tags:
+  - documentation
+  - markdown
+  - git
+  - knowledge
+  - collaboration

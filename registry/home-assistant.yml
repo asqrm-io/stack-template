@@ -1,0 +1,17 @@
+id: home-assistant
+name: Home Assistant
+title: Home Assistant
+description: Open-source platform for home automation to control smart devices, sensors, and IoT.
+version: 1.0.0
+
+files:
+  - compose.d/home-assistant.yml
+
+logo: logos/home-assistant.png
+category: Automation
+
+tags:
+  - home-automation
+  - iot
+  - smart-home
+  - sensors

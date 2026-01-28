@@ -1,0 +1,19 @@
+id: flowise
+name: Flowise
+title: Flowise
+description: Flowise is a self-hosted, visual workflow builder for Large Language Models (LLMs) and AI applications, enabling drag-and-drop pipeline creation, integrations, and experimentation.
+version: 1.0.0
+
+files:
+  - compose.d/flowise.yml
+
+logo: logos/flowise.png
+category: DevOps
+
+tags:
+  - ai
+  - llm
+  - workflows
+  - automation
+  - machine-learning
+  - self-hosted

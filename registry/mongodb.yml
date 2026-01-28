@@ -1,0 +1,16 @@
+id: mongodb
+name: MongoDB
+title: MongoDB
+description: A modern document-oriented NoSQL database designed for scalability, high availability, and flexibility.
+version: 1.0.0
+
+files:
+  - compose.d/mongodb.yml
+
+logo: logos/mongodb.png
+category: Database
+
+tags:
+  - nosql
+  - json
+  - database

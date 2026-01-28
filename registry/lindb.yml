@@ -1,0 +1,19 @@
+id: lindb
+name: LinDB
+title: LinDB
+description: LinDB is a high-performance, distributed time-series database designed for real-time metrics storage, querying, and analytics. Ideal for monitoring, observability, and IoT use cases.
+version: 1.0.0
+
+files:
+  - compose.d/lindb.yml
+
+logo: logos/lindb.png
+category: Database
+
+tags:
+  - database
+  - timeseries
+  - metrics
+  - monitoring
+  - analytics
+  - self-hosted

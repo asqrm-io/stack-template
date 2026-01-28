@@ -1,0 +1,18 @@
+id: stirling-pdf
+name: Stirling PDF
+title: Stirling PDF
+description: Self-hosted PDF generation platform for creating, converting, and managing PDFs from various sources including Markdown, HTML, and templates.
+version: 1.0.0
+
+files:
+  - compose.d/stirling-pdf.yml
+
+logo: logos/stirling-pdf.png
+category: Productivity
+
+tags:
+  - pdf
+  - documents
+  - generation
+  - conversion
+  - automation

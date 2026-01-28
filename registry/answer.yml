@@ -1,0 +1,18 @@
+id: answer
+name: answer
+title: Answer Q&A
+description: Open-source knowledge-sharing and Q&A platform similar to StackOverflow, supporting Markdown, tags, authentication, and community features.
+version: 1.0.0
+
+files:
+  - compose.d/answer.yml
+
+logo: logos/answer.png
+category: Collaboration
+
+tags:
+  - qa
+  - knowledge
+  - community
+  - markdown
+  - discussion

@@ -1,0 +1,19 @@
+id: gitlab-ce
+name: GitLab CE
+title: GitLab CE
+description: Open-source Git platform for source code management, CI/CD pipelines, and DevOps collaboration.
+version: 1.0.0
+
+files:
+  - compose.d/gitlab-ce.yml
+
+logo: logos/gitlab-ce.png
+category: DevOps
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - git
+  - ci-cd
+  - devops
+  - scm

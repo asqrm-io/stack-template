@@ -1,0 +1,18 @@
+id: kafka
+name: Apache Kafka
+title: Apache Kafka
+description: Deploy Apache Kafka, a distributed streaming platform for building real-time data pipelines and streaming applications.
+version: 1.0.0
+
+files:
+  - compose.d/kafka.yml
+
+logo: logos/kafka.png
+category: DevOps
+
+tags:
+  - streaming
+  - messaging
+  - pubsub
+  - distributed
+  - data-pipeline

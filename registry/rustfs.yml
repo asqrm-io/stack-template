@@ -1,0 +1,19 @@
+id: rustfs
+name: RustFS
+title: RustFS
+description: RustFS is a self-hosted, distributed file system written in Rust, designed for high-performance storage, file sharing, and secure data management across multiple nodes.
+version: 1.0.0
+
+files:
+  - compose.d/rustfs.yml
+
+logo: logos/rustfs.png
+category: Storage
+
+tags:
+  - storage
+  - distributed
+  - file-system
+  - rust
+  - self-hosted
+  - data-management

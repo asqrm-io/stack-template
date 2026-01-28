@@ -1,0 +1,17 @@
+id: bookstack
+name: BookStack
+title: BookStack
+description: An open-source platform for organizing and storing documentation and wikis collaboratively.
+version: 1.0.0
+
+files:
+  - compose.d/bookstack.yml
+
+logo: logos/bookstack.png
+category: Collaboration
+
+tags:
+  - wiki
+  - documentation
+  - knowledge
+  - collaboration

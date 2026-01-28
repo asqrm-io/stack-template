@@ -1,0 +1,21 @@
+id: authentik
+name: Authentik
+title: Authentik
+description: Authentik is an open-source identity provider for authentication, single sign-on (SSO), and access management. It supports OAuth, SAML, LDAP, and self-hosted deployments for secure user authentication.
+version: 1.0.0
+
+files:
+  - compose.d/authentik.yml
+
+logo: logos/authentik.png
+category: Authentication
+
+tags:
+  - auth
+  - sso
+  - identity
+  - oauth
+  - saml
+  - ldap
+  - access-control
+  - self-hosted

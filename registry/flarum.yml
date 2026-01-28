@@ -1,0 +1,19 @@
+id: flarum
+name: Flarum
+title: Flarum
+description: Flarum is a modern, self-hosted forum software with a simple, fast, and extensible design, allowing communities to create discussions, moderate content, and engage users.
+version: 1.0.0
+
+files:
+  - compose.d/flarum.yml
+
+logo: logos/flarum.png
+category: Productivity
+
+tags:
+  - forum
+  - discussion
+  - community
+  - php
+  - self-hosted
+  - messaging

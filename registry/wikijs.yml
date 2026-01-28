@@ -1,0 +1,17 @@
+id: wikijs
+name: Wiki.js
+title: Wiki.js
+description: Modern, open-source wiki for documentation, collaboration, and content management.
+version: 1.0.0
+
+files:
+  - compose.d/wikijs.yml
+
+logo: logos/wikijs.png
+category: Collaboration
+
+tags:
+  - wiki
+  - knowledge
+  - documentation
+  - collaboration

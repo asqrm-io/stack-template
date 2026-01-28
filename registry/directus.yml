@@ -1,0 +1,19 @@
+id: directus
+name: Directus
+title: Directus Headless CMS
+description: Open-source data platform and headless CMS for building APIs, dashboards, and content management on top of SQL databases.
+version: 1.0.0
+
+files:
+  - compose.d/directus.yml
+
+logo: logos/directus.png
+category: Backend
+
+tags:
+  - cms
+  - headless
+  - api
+  - database
+  - content
+  - sql

@@ -1,0 +1,17 @@
+id: redis-stack
+name: Redis Stack
+title: Redis
+description: A feature-packed Redis distribution with search, JSON, AI, Bloom filters, and time series modules.
+version: 1.0.0
+
+files:
+  - compose.d/redis-stack.yml
+
+logo: logos/redis-stack.png
+category: Cache
+
+tags:
+  - redis
+  - cache
+  - in-memory
+  - nosql

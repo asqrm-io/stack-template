@@ -1,0 +1,19 @@
+id: langflow
+name: Langflow
+title: Langflow
+description: A visual drag-and-drop builder for creating AI/LLM workflows using LangChain components. Self-hosted, extensible, and easy to integrate.
+version: 1.0.0
+
+files:
+  - compose.d/langflow.yml
+
+logo: logos/langflow.png
+category: DevOps
+
+tags:
+  - ai
+  - llm
+  - workflows
+  - langchain
+  - automation
+  - machine-learning

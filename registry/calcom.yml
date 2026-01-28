@@ -1,0 +1,19 @@
+id: calcom
+name: Cal.com
+title: Cal.com
+description: Cal.com is a self-hosted, open-source scheduling and appointment booking platform that allows teams and individuals to manage meetings, calendar events, and bookings with ease.
+version: 1.0.0
+
+files:
+  - compose.d/calcom.yml
+
+logo: logos/calcom.png
+category: Productivity
+
+tags:
+  - scheduling
+  - calendar
+  - appointments
+  - booking
+  - meetings
+  - self-hosted

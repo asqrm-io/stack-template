@@ -1,0 +1,16 @@
+id: rocketchat
+name: Rocket.Chat
+title: Rocket.Chat
+description: Open-source communication service like Slack for teams and communities.
+version: 1.0.0
+
+files:
+  - compose.d/rocketchat.yml
+
+logo: logos/rocketchat.png
+category: Collaboration
+
+tags:
+  - chat
+  - messaging
+  - community

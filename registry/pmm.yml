@@ -1,0 +1,17 @@
+id: pmm
+name: PMM
+title: PMM Percona 
+description: Open-source platform to monitor and manage MySQL, PostgreSQL, MongoDB, and system performance with dashboards and alerts.
+version: 1.0.0
+
+files:
+  - compose.d/pmm.yml
+
+logo: logos/pmm.png
+category: Monitoring
+
+tags:
+  - database
+  - monitoring
+  - metrics
+  - performance

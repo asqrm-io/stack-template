@@ -1,0 +1,17 @@
+id: ghost
+name: Ghost
+title: Ghost Platform
+description: A fast and modern publishing platform for blogs, newsletters, and digital content.
+version: 1.0.0
+
+files:
+  - compose.d/ghost.yml
+
+logo: logos/ghost.png
+category: Productivity
+
+tags:
+  - blog
+  - publishing
+  - cms
+  - nodejs

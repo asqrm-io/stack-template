@@ -1,0 +1,17 @@
+id: ethercalc
+name: EtherCalc
+title: EtherCalc
+description: Real-time collaborative spreadsheet application for teams and self-hosted environments.
+version: 1.0.0
+
+files:
+  - compose.d/ethercalc.yml
+
+logo: logos/ethercalc.png
+category: Collaboration
+
+tags:
+  - spreadsheet
+  - collaborative
+  - realtime
+  - productivity

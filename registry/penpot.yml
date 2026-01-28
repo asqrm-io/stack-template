@@ -1,0 +1,19 @@
+id: penpot
+name: Penpot
+title: Penpot
+description: The leading open-source design and prototyping platform for teams. Create UI/UX designs, wireframes, and interactive prototypes—all self-hosted.
+version: 1.0.0
+
+files:
+  - compose.d/penpot.yml
+
+logo: logos/penpot.png
+category: Productivity
+
+tags:
+  - design
+  - prototyping
+  - ui-ux
+  - collaboration
+  - teamwork
+  - figma-alternative

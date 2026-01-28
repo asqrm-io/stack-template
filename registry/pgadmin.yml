@@ -1,0 +1,20 @@
+id: pgadmin
+name: pgAdmin
+title: pgAdmin
+description: pgAdmin is a popular open-source administration and management tool for PostgreSQL databases, offering a powerful web interface for querying, managing, and monitoring PostgreSQL servers.
+version: 1.0.0
+
+files:
+  - compose.d/pgadmin.yml
+
+logo: logos/pgadmin.png
+category: Database
+
+tags:
+  - postgres
+  - pgsql
+  - database
+  - admin
+  - management
+  - gui
+  - self-hosted

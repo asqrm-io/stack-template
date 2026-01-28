@@ -1,0 +1,17 @@
+id: jellyfin
+name: Jellyfin
+title: Jellyfin
+description: A fully free and open-source media server for streaming movies, shows, and music.
+version: 1.0.0
+
+files:
+  - compose.d/jellyfin.yml
+
+logo: logos/jellyfin.png
+category: Productivity
+
+tags:
+  - streaming
+  - media
+  - movies
+  - dlna

@@ -1,0 +1,16 @@
+id: mattermost
+name: Mattermost
+title: Mattermost
+description: Open-source Slack alternative for team chat and collaboration.
+version: 1.0.0
+
+files:
+  - compose.d/mattermost.yml
+
+logo: logos/mattermost.png
+category: Collaboration
+
+tags:
+  - chat
+  - slack
+  - messaging

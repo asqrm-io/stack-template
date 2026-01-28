@@ -1,0 +1,17 @@
+id: seafile
+name: Seafile
+title: Seafile File Hosting
+description: A high-performance, enterprise-ready file syncing and sharing platform.
+version: 1.0.0
+
+files:
+  - compose.d/seafile.yml
+
+logo: logos/seafile.png
+category: Storage
+
+tags:
+  - file-sync
+  - cloud-drive
+  - storage
+  - collaboration

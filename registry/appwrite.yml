@@ -1,0 +1,21 @@
+id: appwrite
+name: appwrite
+title: Appwrite
+description: Open-source backend-as-a-service providing authentication, databases, functions, storage, and real-time APIs. A modern alternative to Firebase.
+version: 1.0.0
+
+files:
+  - compose.d/appwrite.yml
+
+logo: logos/appwrite.png
+category: Backend
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - backend
+  - auth
+  - database
+  - storage
+  - functions
+  - cloud

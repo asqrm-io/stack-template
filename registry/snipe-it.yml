@@ -1,0 +1,17 @@
+id: snipe-it
+name: Snipe-IT
+title: Snipe-IT
+description: Open-source IT asset management system to track hardware, software, and licenses.
+version: 1.0.0
+
+files:
+  - compose.d/snipe-it.yml
+
+logo: logos/snipe-it.png
+category: Networking
+
+tags:
+  - assets
+  - inventory
+  - it
+  - management

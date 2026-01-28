@@ -1,0 +1,17 @@
+id: drone
+name: Drone CI
+title: Drone CI Server
+description: Container-native CI/CD platform for automated builds, testing, and deployments.
+version: 1.0.0
+
+files:
+  - compose.d/drone.yml
+
+logo: logos/drone.png
+category: DevOps
+
+tags:
+  - ci-cd
+  - automation
+  - docker
+  - pipelines

@@ -1,0 +1,17 @@
+id: graylog
+name: Graylog
+title: Graylog
+description: A centralized log management platform for collecting, searching, and analyzing logs at scale.
+version: 1.0.0
+
+files:
+  - compose.d/graylog.yml
+
+logo: logos/graylog.png
+category: Monitoring
+
+tags:
+  - logs
+  - logging
+  - analysis
+  - observability

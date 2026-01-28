@@ -1,0 +1,19 @@
+id: nuxtjs
+name: Nuxt.js
+title: Nuxt.js
+description: Nuxt.js is a Vue.js framework for building server-side rendered, static-generated, and full-stack web applications with modern features and performance optimizations.
+version: 1.0.0
+
+files:
+  - compose.d/nuxtjs.yml
+
+logo: logos/nuxtjs.png
+category: Framework
+
+tags:
+  - vue
+  - ssr
+  - ssg
+  - javascript
+  - frontend
+  - self-hosted

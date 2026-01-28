@@ -1,0 +1,17 @@
+id: budibase
+name: Budibase
+title: Budibase
+description: Deploy Budibase, an open-source low-code platform for building internal tools, dashboards, and business applications quickly.
+version: 1.0.0
+
+files:
+  - compose.d/budibase.yml
+
+logo: logos/budibase.png
+category: Productivity
+
+tags:
+  - low-code
+  - internal-tools
+  - automation
+  - builder

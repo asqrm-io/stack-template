@@ -1,0 +1,19 @@
+id: akaunting
+name: akaunting
+title: Akaunting
+description: Akaunting is a self-hosted, open-source accounting software for small businesses to manage invoices, expenses, payments, and financial reports through a web-based interface.
+version: 1.0.0
+
+files:
+  - compose.d/akaunting.yml
+
+logo: logos/akaunting.png
+category: Productivity
+
+tags:
+  - finance
+  - accounting
+  - invoices
+  - expenses
+  - payments
+  - self-hosted

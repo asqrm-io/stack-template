@@ -1,0 +1,17 @@
+id: chatwoot
+name: Chatwoot
+title: Chatwoot
+description: Open-source customer support and engagement platform for managing conversations and tickets.
+version: 1.0.0
+
+files:
+  - compose.d/chatwoot.yml
+
+logo: logos/chatwoot.png
+category: Productivity
+
+tags:
+  - crm
+  - customer-support
+  - chat
+  - tickets

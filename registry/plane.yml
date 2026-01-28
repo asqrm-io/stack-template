@@ -1,0 +1,20 @@
+id: plane
+name: Plane
+title: Plane
+description: Plane is an open-source project and issue management tool that helps teams plan, track, and manage software development. It provides sprints, kanban boards, roadmaps, issues, and workflows—all self-hosted.
+version: 1.0.0
+
+files:
+  - compose.d/plane.yml
+
+logo: logos/plane.png
+category: Collaboration
+
+tags:
+  - project
+  - issues
+  - kanban
+  - backlog
+  - management
+  - devops
+  - self-hosted

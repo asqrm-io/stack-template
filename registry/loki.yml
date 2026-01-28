@@ -1,0 +1,18 @@
+id: loki
+name: Loki
+title: Loki Log
+description: A lightweight, cost-efficient log aggregation system optimized for Prometheus and Grafana.
+version: 1.0.0
+
+files:
+  - compose.d/loki.yml
+
+logo: logos/loki.png
+category: Monitoring
+popular: true
+github: https://github.com/louislam/uptime-kuma
+
+tags:
+  - logs
+  - observability
+  - aggregation

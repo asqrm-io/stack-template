@@ -1,0 +1,20 @@
+id: oauth2-proxy
+name: OAuth2 Proxy
+title: OAuth2 Proxy
+description: OAuth2 Proxy is a reverse proxy that provides authentication using providers like Google, GitHub, GitLab, OIDC, and more. It sits in front of your apps to add secure OAuth-based login.
+version: 1.0.0
+
+files:
+  - compose.d/oauth2-proxy.yml
+
+logo: logos/oauth2-proxy.png
+category: Security
+
+tags:
+  - oauth2
+  - authentication
+  - sso
+  - proxy
+  - oidc
+  - security
+  - identity

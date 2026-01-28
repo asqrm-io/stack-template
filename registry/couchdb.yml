@@ -1,0 +1,19 @@
+id: couchdb
+name: CouchDB
+title: Apache CouchDB
+description: Apache CouchDB is an open-source NoSQL database that uses JSON for documents, JavaScript for queries, and HTTP for its API, supporting distributed scaling and offline-first applications.
+version: 1.0.0
+
+files:
+  - compose.d/couchdb.yml
+
+logo: logos/couchdb.png
+category: Database
+
+tags:
+  - nosql
+  - database
+  - distributed
+  - document-store
+  - json
+  - http

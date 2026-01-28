@@ -1,0 +1,18 @@
+id: kong
+name: Kong
+title: Kong API Gateway
+description: Deploy Kong, a cloud-native API gateway for managing, securing, and scaling APIs with plugins, authentication, and traffic control.
+version: 1.0.0
+
+files:
+  - compose.d/kong.yml
+
+logo: logos/kong.png
+category: api-gateway
+
+tags:
+  - api
+  - gateway
+  - reverse-proxy
+  - security
+  - rate-limit

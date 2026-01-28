@@ -1,0 +1,17 @@
+id: ntfy
+name: ntfy
+title: ntfy
+description: Deploy ntfy, a simple and fast HTTP-based pub/sub notification service for sending notifications to phones, desktops, and servers.
+version: 1.0.0
+
+files:
+  - compose.d/ntfy.yml
+
+logo: logos/ntfy.png
+category: notification
+
+tags:
+  - notifications
+  - pubsub
+  - webhook
+  - alerts

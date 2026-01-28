@@ -1,0 +1,19 @@
+id: laravel
+name: Laravel
+title: Laravel
+description: Laravel is a popular open-source PHP framework for building modern web applications, offering tools for routing, authentication, database management, and developer-friendly architecture.
+version: 1.0.0
+
+files:
+  - compose.d/laravel.yml
+
+logo: logos/laravel.png
+category: Web Server
+
+tags:
+  - php
+  - framework
+  - web
+  - backend
+  - mvc
+  - self-hosted

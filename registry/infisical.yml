@@ -1,0 +1,19 @@
+id: infisical
+name: Infisical
+title: Infisical
+description: Infisical is a self-hosted secrets management platform for storing, sharing, and managing environment variables, API keys, and sensitive configuration securely across teams and applications.
+version: 1.0.0
+
+files:
+  - compose.d/infisical.yml
+
+logo: logos/infisical.png
+category: Security
+
+tags:
+  - secrets
+  - environment
+  - api-keys
+  - configuration
+  - self-hosted
+  - security

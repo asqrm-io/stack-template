@@ -1,0 +1,18 @@
+id: trigger-dev
+name: Trigger.dev
+title: Trigger.dev
+description: Self-hosted workflow automation and event-driven platform for building, scheduling, and connecting backend workflows with APIs and services.
+version: 1.0.0
+
+files:
+  - compose.d/trigger-dev.yml
+
+logo: logos/trigger-dev.png
+category: Automation
+
+tags:
+  - automation
+  - workflow
+  - backend
+  - event-driven
+  - low-code

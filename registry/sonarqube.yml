@@ -1,0 +1,17 @@
+id: sonarqube
+name: SonarQube
+title: SonarQube
+description: A self-hosted platform for continuous code quality, vulnerability scanning, and static analysis.
+version: 1.0.0
+
+files:
+  - compose.d/sonarqube.yml
+
+logo: logos/sonarqube.png
+category: Security
+
+tags:
+  - code-quality
+  - scan
+  - security
+  - devops

@@ -1,0 +1,17 @@
+id: metabase
+name: Metabase
+title: Metabase
+description: Open-source business intelligence platform for interactive dashboards, charts, and SQL analytics.
+version: 1.0.0
+
+files:
+  - compose.d/metabase.yml
+
+logo: logos/metabase.png
+category: Analytics
+
+tags:
+  - analytics
+  - dashboard
+  - reporting
+  - bi
