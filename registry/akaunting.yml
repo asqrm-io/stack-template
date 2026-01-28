@@ -9,6 +9,8 @@ files:
 
 logo: logos/akaunting.png
 category: Productivity
+popular: false
+github: https://github.com/akaunting/akaunting
 
 tags:
   - finance

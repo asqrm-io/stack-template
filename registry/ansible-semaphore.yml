@@ -9,6 +9,8 @@ files:
 
 logo: logos/ansible-semaphore.png
 category: DevOps
+popular: false
+github: https://github.com/semaphoreui/semaphore
 
 tags:
   - ansible
