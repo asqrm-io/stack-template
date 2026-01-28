@@ -9,6 +9,8 @@ files:
 
 logo: logos/activepieces.png
 category: Automation
+popular: false
+github: https://github.com/activepieces/activepieces
 
 tags:
   - workflow
