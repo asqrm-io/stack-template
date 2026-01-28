@@ -10,6 +10,7 @@ files:
 logo: logos/adguard-home.png
 category: Networking
 popular: true
+github: https://github.com/AdguardTeam/AdGuardHome
 
 tags:
   - adblock

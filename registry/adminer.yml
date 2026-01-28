@@ -9,6 +9,8 @@ files:
 
 logo: logos/adminer.png
 category: Database
+popular: false
+github: https://github.com/activepieces/activepieces
 
 tags:
   - database
