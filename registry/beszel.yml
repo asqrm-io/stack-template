@@ -9,6 +9,8 @@ files:
 
 logo: logos/beszel.png
 category: Monitoring
+popular: true
+github: https://github.com/henrygd/beszel
 
 tags:
   - monitoring
