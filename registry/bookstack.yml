@@ -9,6 +9,8 @@ files:
 
 logo: logos/bookstack.png
 category: Collaboration
+popular: true
+github: https://github.com/BookStackApp/BookStack
 
 tags:
   - wiki
