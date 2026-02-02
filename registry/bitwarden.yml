@@ -5,7 +5,7 @@ description: A secure open-source password manager with vault syncing and user m
 version: 1.0.0
 
 files:
-  - compose.d/bitwarden.yml
+  - compose.d/bitwarden/bitwarden.yml
 
 logo: logos/bitwarden.png
 category: Security
