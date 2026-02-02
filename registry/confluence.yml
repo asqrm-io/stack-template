@@ -5,7 +5,7 @@ description: Confluence is a collaborative team workspace for creating, sharing,
 version: 1.0.0
 
 files:
-  - compose.d/confluence.yml
+  - compose.d/confluence/confluence.yml
 
 logo: logos/confluence.png
 category: Productivity

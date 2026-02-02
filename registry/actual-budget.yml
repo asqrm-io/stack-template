@@ -5,7 +5,7 @@ description: Actual Budget is a self-hosted personal finance and budgeting platf
 version: 1.0.0
 
 files:
-  - compose.d/actual-budget.yml
+  - compose.d/actual-budget/actual-budget.yml
 
 logo: logos/actual-budget.png
 category: Productivity

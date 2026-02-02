@@ -5,7 +5,7 @@ description: Deploy Speedtest Tracker to monitor internet speed over time using 
 version: 1.0.0
 
 files:
-  - compose.d/speedtest-tracker.yml
+  - compose.d/speedtest-tracker/speedtest-tracker.yml
 
 logo: logos/speedtest-tracker.png
 category: monitoring

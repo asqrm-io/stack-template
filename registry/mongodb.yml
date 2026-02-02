@@ -5,7 +5,7 @@ description: A modern document-oriented NoSQL database designed for scalability,
 version: 1.0.0
 
 files:
-  - compose.d/mongodb.yml
+  - compose.d/mongodb/mongodb.yml
 
 logo: logos/mongodb.png
 category: Database

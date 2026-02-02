@@ -5,7 +5,7 @@ description: A reliable and widely used message broker supporting AMQP, MQTT, ST
 version: 1.0.0
 
 files:
-  - compose.d/rabbitmq.yml
+  - compose.d/rabbitmq/rabbitmq.yml
 
 logo: logos/rabbitmq.png
 category: Messaging

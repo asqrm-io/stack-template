@@ -5,7 +5,7 @@ description: Deploy OpenResty, an NGINX-based platform with powerful Lua scripti
 version: 1.0.0
 
 files:
-  - compose.d/openresty.yml
+  - compose.d/openresty/openresty.yml
 
 logo: logos/openresty.png
 category: Web Server

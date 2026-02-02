@@ -5,7 +5,7 @@ description: Open-source tool for managing IP addresses, devices, racks, and net
 version: 1.0.0
 
 files:
-  - compose.d/netbox.yml
+  - compose.d/netbox/netbox.yml
 
 logo: logos/netbox.png
 category: Networking

@@ -5,7 +5,7 @@ description: Self-hosted event management and scheduling platform for creating, 
 version: 1.0.0
 
 files:
-  - compose.d/hi-events.yml
+  - compose.d/hi-events/hi-events.yml
 
 logo: logos/hi-events.png
 category: Productivity

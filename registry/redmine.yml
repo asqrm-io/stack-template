@@ -5,7 +5,7 @@ description: Flexible project management web application with issue tracking, Ga
 version: 1.0.0
 
 files:
-  - compose.d/redmine.yml
+  - compose.d/redmine/redmine.yml
 
 logo: logos/redmine.png
 category: Collaboration

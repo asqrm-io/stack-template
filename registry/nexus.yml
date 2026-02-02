@@ -5,7 +5,7 @@ description: A universal artifact repository manager supporting Docker, Maven, n
 version: 1.0.0
 
 files:
-  - compose.d/nexus.yml
+  - compose.d/nexus/nexus.yml
 
 logo: logos/nexus.png
 category: DevOps

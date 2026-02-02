@@ -5,7 +5,7 @@ description: Self-hosted platform for automatically backing up, organizing, and 
 version: 1.0.0
 
 files:
-  - compose.d/immich.yml
+  - compose.d/immich/immich.yml
 
 logo: logos/immich.png
 category: Productivity

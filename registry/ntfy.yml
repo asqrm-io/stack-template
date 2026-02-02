@@ -5,7 +5,7 @@ description: Deploy ntfy, a simple and fast HTTP-based pub/sub notification serv
 version: 1.0.0
 
 files:
-  - compose.d/ntfy.yml
+  - compose.d/ntfy/ntfy.yml
 
 logo: logos/ntfy.png
 category: notification

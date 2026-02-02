@@ -5,7 +5,7 @@ description: Self-hosted PDF generation platform for creating, converting, and m
 version: 1.0.0
 
 files:
-  - compose.d/stirling-pdf.yml
+  - compose.d/stirling-pdf/stirling-pdf.yml
 
 logo: logos/stirling-pdf.png
 category: Productivity

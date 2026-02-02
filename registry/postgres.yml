@@ -5,7 +5,7 @@ description: A powerful open-source relational database system known for reliabi
 version: 1.0.0
 
 files:
-  - compose.d/postgres.yml
+  - compose.d/postgres/postgres.yml
 
 logo: logos/postgres.png
 category: Database

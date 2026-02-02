@@ -5,7 +5,7 @@ description: Self-hosted workflow automation platform to connect apps, APIs, and
 version: 1.0.0
 
 files:
-  - compose.d/activepieces.yml
+  - compose.d/activepieces/activepieces.yml
 
 logo: logos/activepieces.png
 category: Automation

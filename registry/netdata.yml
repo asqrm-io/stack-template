@@ -5,7 +5,7 @@ description: A high-performance monitoring suite that provides real-time insight
 version: 1.0.0
 
 files:
-  - compose.d/netdata.yml
+  - compose.d/netdata/netdata.yml
 
 logo: logos/netdata.png
 category: Monitoring

@@ -5,7 +5,7 @@ description: Harbor is a self-hosted cloud-native registry that stores, signs, a
 version: 1.0.0
 
 files:
-  - compose.d/harbor.yml
+  - compose.d/harbor/harbor.yml
 
 logo: logos/harbor.png
 category: DevOps

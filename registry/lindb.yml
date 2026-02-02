@@ -5,7 +5,7 @@ description: LinDB is a high-performance, distributed time-series database desig
 version: 1.0.0
 
 files:
-  - compose.d/lindb.yml
+  - compose.d/lindb/lindb.yml
 
 logo: logos/lindb.png
 category: Database

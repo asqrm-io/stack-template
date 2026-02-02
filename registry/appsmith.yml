@@ -5,10 +5,12 @@ description: An open-source low-code platform for rapidly building internal tool
 version: 1.0.0
 
 files:
-  - compose.d/appsmith.yml
+  - compose.d/appsmith/appsmith.yml
 
 logo: logos/appsmith.png
 category: Productivity
+popular: true
+github: https://github.com/appsmithorg/appsmith
 
 tags:
   - lowcode

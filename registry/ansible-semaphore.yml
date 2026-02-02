@@ -5,7 +5,7 @@ description: Deploy Ansible Semaphore, a modern web-based UI for running and man
 version: 1.0.0
 
 files:
-  - compose.d/ansible-semaphore.yml
+  - compose.d/ansible-semaphore/ansible-semaphore.yml
 
 logo: logos/ansible-semaphore.png
 category: DevOps

@@ -5,7 +5,7 @@ description: FileBrowser is a self-hosted web-based file management platform tha
 version: 1.0.0
 
 files:
-  - compose.d/filebrowser.yml
+  - compose.d/filebrowser/filebrowser.yml
 
 logo: logos/filebrowser.png
 category: Storage

@@ -5,7 +5,7 @@ description: Open-source Git platform for source code management, CI/CD pipeline
 version: 1.0.0
 
 files:
-  - compose.d/gitlab-ce.yml
+  - compose.d/gitlab-ce/gitlab-ce.yml
 
 logo: logos/gitlab-ce.png
 category: DevOps

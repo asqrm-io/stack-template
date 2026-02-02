@@ -5,7 +5,7 @@ description: A self-hosted platform for continuous code quality, vulnerability s
 version: 1.0.0
 
 files:
-  - compose.d/sonarqube.yml
+  - compose.d/sonarqube/sonarqube.yml
 
 logo: logos/sonarqube.png
 category: Security

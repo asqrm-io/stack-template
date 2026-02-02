@@ -5,7 +5,7 @@ description: Gotify is a self-hosted server for sending and receiving real-time 
 version: 1.0.0
 
 files:
-  - compose.d/gotify.yml
+  - compose.d/gotify/gotify.yml
 
 logo: logos/gotify.png
 category: Networking

@@ -5,7 +5,7 @@ description: A powerful visualization and analytics platform for creating dynami
 version: 1.0.0
 
 files:
-  - compose.d/grafana.yml
+  - compose.d/grafana/grafana.yml
 
 logo: logos/grafana.png
 category: Monitoring

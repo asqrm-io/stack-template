@@ -5,7 +5,7 @@ description: Lightweight, self-hosted backend with database, real-time subscript
 version: 1.0.0
 
 files:
-  - compose.d/pocketbase.yml
+  - compose.d/pocketbase/pocketbase.yml
 
 logo: logos/pocketbase.png
 category: Backend

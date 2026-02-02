@@ -5,7 +5,7 @@ description: Self-hosted PocketBase backend configured to use PostgreSQL for dat
 version: 1.0.0
 
 files:
-  - compose.d/postgrebase.yml
+  - compose.d/postgrebase/postgrebase.yml
 
 logo: logos/postgrebase.png
 category: Backend

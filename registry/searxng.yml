@@ -5,7 +5,7 @@ description: Privacy-focused, self-hosted metasearch engine that aggregates resu
 version: 1.0.0
 
 files:
-  - compose.d/searxng.yml
+  - compose.d/searxng/searxng.yml
 
 logo: logos/searxng.png
 category: Search

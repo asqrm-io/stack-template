@@ -5,7 +5,7 @@ description: A network-wide ad blocker using DNS filtering, ideal for home and s
 version: 1.0.0
 
 files:
-  - compose.d/pihole.yml
+  - compose.d/pihole/pihole.yml
 
 logo: logos/pihole.png
 category: Networking

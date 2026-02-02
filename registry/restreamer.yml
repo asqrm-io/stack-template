@@ -5,7 +5,7 @@ description: Self-hosted video streaming server to broadcast RTSP streams to web
 version: 1.0.0
 
 files:
-  - compose.d/restreamer.yml
+  - compose.d/restreamer/restreamer.yml
 
 logo: logos/restreamer.png
 category: Media

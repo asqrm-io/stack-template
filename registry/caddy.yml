@@ -5,7 +5,7 @@ description: A modern, secure, and easy-to-use web server with automatic HTTPS p
 version: 1.0.0
 
 files:
-  - compose.d/caddy.yml
+  - compose.d/caddy/caddy.yml
 
 logo: logos/caddy.png
 category: Web Server

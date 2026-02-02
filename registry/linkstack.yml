@@ -5,7 +5,7 @@ description: LinkStack is a self-hosted platform for creating, managing, and sha
 version: 1.0.0
 
 files:
-  - compose.d/linkstack.yml
+  - compose.d/linkstack/linkstack.yml
 
 logo: logos/linkstack.png
 category: Productivity

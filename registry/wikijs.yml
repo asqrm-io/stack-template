@@ -5,7 +5,7 @@ description: Modern, open-source wiki for documentation, collaboration, and cont
 version: 1.0.0
 
 files:
-  - compose.d/wikijs.yml
+  - compose.d/wikijs/wikijs.yml
 
 logo: logos/wikijs.png
 category: Collaboration

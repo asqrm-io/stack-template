@@ -5,7 +5,7 @@ description: Container-native CI/CD platform for automated builds, testing, and 
 version: 1.0.0
 
 files:
-  - compose.d/drone.yml
+  - compose.d/drone/drone.yml
 
 logo: logos/drone.png
 category: DevOps

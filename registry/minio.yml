@@ -5,7 +5,7 @@ description: High-performance S3-compatible object storage for cloud-native appl
 version: 1.0.0
 
 files:
-  - compose.d/minio.yml
+  - compose.d/minio/minio.yml
 
 logo: logos/minio.png
 category: Storage

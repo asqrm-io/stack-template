@@ -5,7 +5,7 @@ description: An open-source business application suite providing CRM, accounting
 version: 1.0.0
 
 files:
-  - compose.d/odoo.yml
+  - compose.d/odoo/odoo.yml
 
 logo: logos/odoo.png
 category: Productivity

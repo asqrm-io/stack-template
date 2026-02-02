@@ -5,7 +5,7 @@ description: Turn any SQL database into a smart spreadsheet-style interface for 
 version: 1.0.0
 
 files:
-  - compose.d/nocodb.yml
+  - compose.d/nocodb/nocodb.yml
 
 logo: logos/nocodb.png
 category: Productivity

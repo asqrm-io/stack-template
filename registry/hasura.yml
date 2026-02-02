@@ -5,7 +5,7 @@ description: Hasura is a self-hosted GraphQL engine that instantly provides a re
 version: 1.0.0
 
 files:
-  - compose.d/hasura.yml
+  - compose.d/hasura/hasura.yml
 
 logo: logos/hasura.png
 category: Database

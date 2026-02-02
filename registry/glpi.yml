@@ -5,7 +5,7 @@ description: GLPI is an open-source ITSM platform for managing assets, tickets, 
 version: 1.0.0
 
 files:
-  - compose.d/glpi.yml
+  - compose.d/glpi/glpi.yml
 
 logo: logos/glpi.png
 category: Productivity

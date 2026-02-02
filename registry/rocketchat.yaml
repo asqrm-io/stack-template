@@ -5,7 +5,7 @@ description: Open-source communication service like Slack for teams and communit
 version: 1.0.0
 
 files:
-  - compose.d/rocketchat.yml
+  - compose.d/rocketchat/rocketchat.yml
 
 logo: logos/rocketchat.png
 category: Collaboration

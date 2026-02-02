@@ -5,7 +5,7 @@ description: The leading open-source design and prototyping platform for teams. 
 version: 1.0.0
 
 files:
-  - compose.d/penpot.yml
+  - compose.d/penpot/penpot.yml
 
 logo: logos/penpot.png
 category: Productivity

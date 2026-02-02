@@ -5,7 +5,7 @@ description: Open-source platform to monitor and manage MySQL, PostgreSQL, Mongo
 version: 1.0.0
 
 files:
-  - compose.d/pmm.yml
+  - compose.d/pmm/pmm.yml
 
 logo: logos/pmm.png
 category: Monitoring

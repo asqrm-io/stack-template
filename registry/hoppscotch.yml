@@ -5,7 +5,7 @@ description: Deploy Hoppscotch, a fast and open-source API development and testi
 version: 1.0.0
 
 files:
-  - compose.d/hoppscotch.yml
+  - compose.d/hoppscotch/hoppscotch.yml
 
 logo: logos/hoppscotch.png
 category: developer-tools

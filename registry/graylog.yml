@@ -5,7 +5,7 @@ description: A centralized log management platform for collecting, searching, an
 version: 1.0.0
 
 files:
-  - compose.d/graylog.yml
+  - compose.d/graylog/graylog.yml
 
 logo: logos/graylog.png
 category: Monitoring

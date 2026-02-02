@@ -5,7 +5,7 @@ description: A unified DevOps platform providing Git hosting, CI/CD pipelines, i
 version: 1.0.0
 
 files:
-  - compose.d/onedev.yml
+  - compose.d/onedev/onedev.yml
 
 logo: logos/onedev.png
 category: DevOps

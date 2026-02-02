@@ -5,7 +5,7 @@ description: Rundeck is a self-hosted runbook automation platform that allows te
 version: 1.0.0
 
 files:
-  - compose.d/rundeck.yml
+  - compose.d/rundeck/rundeck.yml
 
 logo: logos/rundeck.png
 category: Automation

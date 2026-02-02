@@ -5,7 +5,7 @@ description: A lightweight and efficient MQTT message broker ideal for IoT and r
 version: 1.0.0
 
 files:
-  - compose.d/mosquitto.yml
+  - compose.d/mosquitto/mosquitto.yml
 
 logo: logos/mosquitto.png
 category: Messaging

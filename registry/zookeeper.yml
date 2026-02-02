@@ -5,7 +5,7 @@ description: Deploy Apache ZooKeeper, a centralized service for maintaining conf
 version: 1.0.0
 
 files:
-  - compose.d/zookeeper.yml
+  - compose.d/zookeeper/zookeeper.yml
 
 logo: logos/zookeeper.png
 category: DevOps

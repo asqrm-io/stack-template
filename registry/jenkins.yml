@@ -5,7 +5,7 @@ description: The leading open-source automation server for CI/CD pipelines, inte
 version: 1.0.0
 
 files:
-  - compose.d/jenkins.yml
+  - compose.d/jenkins/jenkins.yml
 
 logo: logos/jenkins.png
 category: DevOps

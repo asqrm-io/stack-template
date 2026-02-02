@@ -5,7 +5,7 @@ description: A DNS-level ad blocker and privacy solution for home and enterprise
 version: 1.0.0
 
 files:
-  - compose.d/adguard-home.yml
+  - compose.d/adguard-home/adguard-home.yml
 
 logo: logos/adguard-home.png
 category: Networking

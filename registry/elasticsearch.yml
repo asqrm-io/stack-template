@@ -5,7 +5,7 @@ description: A powerful, distributed, RESTful search and analytics engine used f
 version: 1.0.0
 
 files:
-  - compose.d/elasticsearch.yml
+  - compose.d/elasticsearch/elasticsearch.yml
 
 logo: logos/elasticsearch.png
 category: Database

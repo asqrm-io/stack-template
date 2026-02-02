@@ -5,7 +5,7 @@ description: A lightweight container management UI for Docker, Swarm, and Kubern
 version: 1.0.0
 
 files:
-  - compose.d/portainer.yml
+  - compose.d/portainer/portainer.yml
 
 logo: logos/portainer.png
 category: Networking

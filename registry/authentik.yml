@@ -5,7 +5,7 @@ description: Authentik is an open-source identity provider for authentication, s
 version: 1.0.0
 
 files:
-  - compose.d/authentik.yml
+  - compose.d/authentik/authentik.yml
 
 logo: logos/authentik.png
 category: Authentication

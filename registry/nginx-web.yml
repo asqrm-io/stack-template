@@ -5,7 +5,7 @@ description: Deploy a lightweight and high-performance NGINX web server for serv
 version: 1.0.0
 
 files:
-  - compose.d/nginx-web.yml
+  - compose.d/nginx-web/nginx-web.yml
 
 logo: logos/nginx.png
 category: Web Server

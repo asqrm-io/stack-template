@@ -5,7 +5,7 @@ description: Mixpost is a self-hosted platform for scheduling and managing socia
 version: 1.0.0
 
 files:
-  - compose.d/mixpost.yml
+  - compose.d/mixpost/mixpost.yml
 
 logo: logos/mixpost.png
 category: Productivity

@@ -5,7 +5,7 @@ description: Self-hosted hierarchical note-taking and personal knowledge managem
 version: 1.0.0
 
 files:
-  - compose.d/trilium.yml
+  - compose.d/trilium/trilium.yml
 
 logo: logos/trilium.png
 category: Productivity

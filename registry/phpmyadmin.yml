@@ -5,7 +5,7 @@ description: phpMyAdmin is a popular web-based administration tool for MySQL and
 version: 1.0.0
 
 files:
-  - compose.d/phpmyadmin.yml
+  - compose.d/phpmyadmin/phpmyadmin.yml
 
 logo: logos/phpmyadmin.png
 category: Database

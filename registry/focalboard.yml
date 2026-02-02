@@ -5,7 +5,7 @@ description: Open-source project and task management system for teams, self-host
 version: 1.0.0
 
 files:
-  - compose.d/focalboard.yml
+  - compose.d/focalboard/focalboard.yml
 
 logo: logos/focalboard.png
 category: Collaboration

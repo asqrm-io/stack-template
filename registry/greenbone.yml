@@ -5,7 +5,7 @@ description: Greenbone is a self-hosted vulnerability management platform for sc
 version: 1.0.0
 
 files:
-  - compose.d/greenbone.yml
+  - compose.d/greenbone/greenbone.yml
 
 logo: logos/greenbone.png
 category: Security

@@ -5,7 +5,7 @@ description: Deploy Kong, a cloud-native API gateway for managing, securing, and
 version: 1.0.0
 
 files:
-  - compose.d/kong.yml
+  - compose.d/kong/kong.yml
 
 logo: logos/kong.png
 category: api-gateway

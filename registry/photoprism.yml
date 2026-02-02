@@ -5,7 +5,7 @@ description: AI-powered photo management and browsing system for self-hosted col
 version: 1.0.0
 
 files:
-  - compose.d/photoprism.yml
+  - compose.d/photoprism/photoprism.yml
 
 logo: logos/photoprism.png
 category: Media

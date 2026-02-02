@@ -5,7 +5,7 @@ description: Deploy Budibase, an open-source low-code platform for building inte
 version: 1.0.0
 
 files:
-  - compose.d/budibase.yml
+  - compose.d/budibase/budibase.yml
 
 logo: logos/budibase.png
 category: Productivity

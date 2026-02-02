@@ -5,7 +5,7 @@ description: Zabbix is a self-hosted enterprise-grade monitoring platform for ne
 version: 1.0.0
 
 files:
-  - compose.d/zabbix.yml
+  - compose.d/zabbix/zabbix.yml
 
 logo: logos/zabbix.png
 category: Monitoring

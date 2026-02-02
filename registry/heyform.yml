@@ -5,7 +5,7 @@ description: Self-hosted form and survey builder platform for creating forms, po
 version: 1.0.0
 
 files:
-  - compose.d/heyform.yml
+  - compose.d/heyform/heyform.yml
 
 logo: logos/heyform.png
 category: Productivity

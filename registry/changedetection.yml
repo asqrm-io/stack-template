@@ -5,7 +5,7 @@ description: Changedetection.io is a self-hosted platform for monitoring website
 version: 1.0.0
 
 files:
-  - compose.d/changedetection.yml
+  - compose.d/changedetection/changedetection.yml
 
 logo: logos/changedetection.png
 category: Monitoring

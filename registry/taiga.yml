@@ -5,7 +5,7 @@ description: Self-hosted project management tool for agile teams with backlog, s
 version: 1.0.0
 
 files:
-  - compose.d/taiga.yml
+  - compose.d/taiga/taiga.yml
 
 logo: logos/taiga.png
 category: Collaboration

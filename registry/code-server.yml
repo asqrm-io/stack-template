@@ -5,7 +5,7 @@ description: Self-hosted Visual Studio Code accessible via the browser for remot
 version: 1.0.0
 
 files:
-  - compose.d/code-server.yml
+  - compose.d/code-server/code-server.yml
 
 logo: logos/code-server.png
 category: DevOps

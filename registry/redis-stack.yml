@@ -5,7 +5,7 @@ description: A feature-packed Redis distribution with search, JSON, AI, Bloom fi
 version: 1.0.0
 
 files:
-  - compose.d/redis-stack.yml
+  - compose.d/redis-stack/redis-stack.yml
 
 logo: logos/redis-stack.png
 category: Cache

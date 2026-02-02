@@ -5,7 +5,7 @@ description: A beautiful self-hosted monitoring tool that tracks uptime, latency
 version: 1.0.0
 
 files:
-  - compose.d/uptime-kuma.yml
+  - compose.d/uptime-kuma/uptime-kuma.yml
 
 logo: logos/uptime-kuma.png
 category: Monitoring

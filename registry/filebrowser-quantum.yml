@@ -5,7 +5,7 @@ description: FileBrowser Quantum is an advanced self-hosted web-based file manag
 version: 1.0.0
 
 files:
-  - compose.d/filebrowser-quantum.yml
+  - compose.d/filebrowser-quantum/filebrowser-quantum.yml
 
 logo: logos/filebrowser-quantum.png
 category: Storage

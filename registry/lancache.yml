@@ -5,7 +5,7 @@ description: LanCache is a self-hosted caching proxy for game downloads and upda
 version: 1.0.0
 
 files:
-  - compose.d/lancache.yml
+  - compose.d/lancache/lancache.yml
 
 logo: logos/lancache.png
 category: Networking

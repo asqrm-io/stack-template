@@ -5,7 +5,7 @@ description: OnlyOffice is a powerful self-hosted collaborative office suite sup
 version: 1.0.0
 
 files:
-  - compose.d/onlyoffice.yml
+  - compose.d/onlyoffice/onlyoffice.yml
 
 logo: logos/onlyoffice.png
 category: Productivity

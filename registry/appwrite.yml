@@ -5,7 +5,7 @@ description: Open-source backend-as-a-service providing authentication, database
 version: 1.0.0
 
 files:
-  - compose.d/appwrite.yml
+  - compose.d/appwrite/appwrite.yml
 
 logo: logos/appwrite.png
 category: Backend

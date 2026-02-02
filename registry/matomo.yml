@@ -5,7 +5,7 @@ description: A self-hosted analytics platform for visitor tracking, heatmaps, fu
 version: 1.0.0
 
 files:
-  - compose.d/matomo.yml
+  - compose.d/matomo/matomo.yml
 
 logo: logos/matomo.png
 category: Analytics

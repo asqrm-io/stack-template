@@ -5,7 +5,7 @@ description: A secure tool for managing secrets, tokens, encryption keys, and se
 version: 1.0.0
 
 files:
-  - compose.d/vault.yml
+  - compose.d/vault/vault.yml
 
 logo: logos/vault.png
 category: Security

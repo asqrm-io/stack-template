@@ -5,7 +5,7 @@ description: A minimalist and fast RSS reader built for simplicity, privacy, and
 version: 1.0.0
 
 files:
-  - compose.d/miniflux.yml
+  - compose.d/miniflux/miniflux.yml
 
 logo: logos/miniflux.png
 category: Productivity

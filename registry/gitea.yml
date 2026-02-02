@@ -5,7 +5,7 @@ description: A lightweight and self-hosted Git service with an easy-to-use inter
 version: 1.0.0
 
 files:
-  - compose.d/gitea.yml
+  - compose.d/gitea/gitea.yml
 
 logo: logos/gitea.png
 category: DevOps

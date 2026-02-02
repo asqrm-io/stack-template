@@ -5,7 +5,7 @@ description: Self-hosted workflow automation and event-driven platform for build
 version: 1.0.0
 
 files:
-  - compose.d/trigger-dev.yml
+  - compose.d/trigger-dev/trigger-dev.yml
 
 logo: logos/trigger-dev.png
 category: Automation

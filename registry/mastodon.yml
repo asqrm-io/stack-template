@@ -5,7 +5,7 @@ description: Mastodon is a self-hosted, decentralized social networking platform
 version: 1.0.0
 
 files:
-  - compose.d/mastodon.yml
+  - compose.d/mastodon/mastodon.yml
 
 logo: logos/mastodon.png
 category: Productivity

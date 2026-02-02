@@ -5,7 +5,7 @@ description: Open-source time tracking software for individuals and teams with r
 version: 1.0.0
 
 files:
-  - compose.d/kimai.yml
+  - compose.d/kimai/kimai.yml
 
 logo: logos/kimai.png
 category: Productivity

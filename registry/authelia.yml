@@ -1,11 +1,11 @@
 id: authelia
-name: Authelia
+name: authelia
 title: Authelia
 description: A modern authentication and 2FA portal providing secure reverse-proxy authorization.
 version: 1.0.0
 
 files:
-  - compose.d/authelia.yml
+  - compose.d/authelia/authelia.yml
 
 logo: logos/authelia.png
 category: Security

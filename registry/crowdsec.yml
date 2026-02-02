@@ -5,7 +5,7 @@ description: Collaborative, open-source security engine for real-time detection 
 version: 1.0.0
 
 files:
-  - compose.d/crowdsec.yml
+  - compose.d/crowdsec/crowdsec.yml
 
 logo: logos/crowdsec.png
 category: Security

@@ -5,7 +5,7 @@ description: Laravel is a popular open-source PHP framework for building modern 
 version: 1.0.0
 
 files:
-  - compose.d/laravel.yml
+  - compose.d/laravel/laravel.yml
 
 logo: logos/laravel.png
 category: Web Server

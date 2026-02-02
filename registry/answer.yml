@@ -5,7 +5,7 @@ description: Open-source knowledge-sharing and Q&A platform similar to StackOver
 version: 1.0.0
 
 files:
-  - compose.d/answer.yml
+  - compose.d/answer/answer.yml
 
 logo: logos/answer.png
 category: Collaboration

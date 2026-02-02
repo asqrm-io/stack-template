@@ -5,7 +5,7 @@ description: Infisical is a self-hosted secrets management platform for storing,
 version: 1.0.0
 
 files:
-  - compose.d/infisical.yml
+  - compose.d/infisical/infisical.yml
 
 logo: logos/infisical.png
 category: Security

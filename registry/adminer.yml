@@ -5,12 +5,12 @@ description: Adminer is a lightweight, full-featured database management tool fo
 version: 1.0.0
 
 files:
-  - compose.d/adminer.yml
+  - compose.d/adminer/adminer.yml
 
 logo: logos/adminer.png
 category: Database
 popular: false
-github: https://github.com/activepieces/activepieces
+github: https://github.com/vrana/adminer
 
 tags:
   - database

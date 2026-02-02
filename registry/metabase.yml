@@ -5,7 +5,7 @@ description: Open-source business intelligence platform for interactive dashboar
 version: 1.0.0
 
 files:
-  - compose.d/metabase.yml
+  - compose.d/metabase/metabase.yml
 
 logo: logos/metabase.png
 category: Analytics

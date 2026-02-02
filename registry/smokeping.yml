@@ -5,7 +5,7 @@ description: Deploy SmokePing to measure network latency and packet loss over ti
 version: 1.0.0
 
 files:
-  - compose.d/smokeping.yml
+  - compose.d/smokeping/smokeping.yml
 
 logo: logos/smokeping.png
 category: monitoring

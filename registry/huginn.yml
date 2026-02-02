@@ -5,7 +5,7 @@ description: Create agents that monitor and automate tasks online, similar to a 
 version: 1.0.0
 
 files:
-  - compose.d/huginn.yml
+  - compose.d/huginn/huginn.yml
 
 logo: logos/huginn.png
 category: Automation

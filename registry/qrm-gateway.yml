@@ -5,7 +5,7 @@ description: Core gateway service of QRM that handles API routing, authenticatio
 version: 1.0.0
 
 files:
-  - compose.d/qrm-gateway.yml
+  - compose.d/qrm-gateway/qrm-gateway.yml
 
 logo: logos/qrm-gateway.png
 category: Networking

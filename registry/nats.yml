@@ -5,7 +5,7 @@ description: A high-performance messaging platform optimized for microservices, 
 version: 1.0.0
 
 files:
-  - compose.d/nats.yml
+  - compose.d/nats/nats.yml
 
 logo: logos/nats.png
 category: Messaging

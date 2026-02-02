@@ -5,7 +5,7 @@ description: Open-source platform for home automation to control smart devices, 
 version: 1.0.0
 
 files:
-  - compose.d/home-assistant.yml
+  - compose.d/home-assistant/home-assistant.yml
 
 logo: logos/home-assistant.png
 category: Automation

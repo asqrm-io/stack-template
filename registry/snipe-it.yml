@@ -5,7 +5,7 @@ description: Open-source IT asset management system to track hardware, software,
 version: 1.0.0
 
 files:
-  - compose.d/snipe-it.yml
+  - compose.d/snipe-it/snipe-it.yml
 
 logo: logos/snipe-it.png
 category: Networking

@@ -5,7 +5,7 @@ description: A high-performance TCP/HTTP load balancer and reverse proxy for dis
 version: 1.0.0
 
 files:
-  - compose.d/haproxy.yml
+  - compose.d/haproxy/haproxy.yml
 
 logo: logos/haproxy.png
 category: Web Server

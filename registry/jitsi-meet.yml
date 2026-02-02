@@ -5,7 +5,7 @@ description: Jitsi Meet is a self-hosted, secure, and fully-featured video confe
 version: 1.0.0
 
 files:
-  - compose.d/jitsi-meet.yml
+  - compose.d/jitsi-meet/jitsi-meet.yml
 
 logo: logos/jitsi-meet.png
 category: Collaboration

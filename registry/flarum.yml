@@ -5,7 +5,7 @@ description: Flarum is a modern, self-hosted forum software with a simple, fast,
 version: 1.0.0
 
 files:
-  - compose.d/flarum.yml
+  - compose.d/flarum/flarum.yml
 
 logo: logos/flarum.png
 category: Productivity

@@ -5,7 +5,7 @@ description: A community-driven, high-performance MySQL-compatible relational da
 version: 1.0.0
 
 files:
-  - compose.d/mariadb.yml
+  - compose.d/mariadb/mariadb.yml
 
 logo: logos/mariadb.png
 category: Database

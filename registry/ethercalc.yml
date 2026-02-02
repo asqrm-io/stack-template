@@ -5,7 +5,7 @@ description: Real-time collaborative spreadsheet application for teams and self-
 version: 1.0.0
 
 files:
-  - compose.d/ethercalc.yml
+  - compose.d/ethercalc/ethercalc.yml
 
 logo: logos/ethercalc.png
 category: Collaboration

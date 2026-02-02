@@ -1,14 +1,16 @@
 id: baserow
-name: Baserow
+name: baserow
 title: Baserow
 description: Open-source and no-code database platform similar to Airtable. Includes tables, views, API, authentication, and plugin support.
 version: 1.0.0
 
 files:
-  - compose.d/baserow.yml
+  - compose.d/baserow/baserow.yml
 
 logo: logos/baserow.png
 category: Database
+popular: false
+github: https://github.com/baserow/baserow
 
 tags:
   - nocode

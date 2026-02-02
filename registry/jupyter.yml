@@ -5,7 +5,7 @@ description: Jupyter is a self-hosted web-based interactive computing platform t
 version: 1.0.0
 
 files:
-  - compose.d/jupyter.yml
+  - compose.d/jupyter/jupyter.yml
 
 logo: logos/jupyter.png
 category: Productivity

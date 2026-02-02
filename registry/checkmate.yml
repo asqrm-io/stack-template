@@ -5,7 +5,7 @@ description: Checkmate is a self-hosted monitoring and alerting platform for ser
 version: 1.0.0
 
 files:
-  - compose.d/checkmate.yml
+  - compose.d/checkmate/checkmate.yml
 
 logo: logos/checkmate.png
 category: Monitoring

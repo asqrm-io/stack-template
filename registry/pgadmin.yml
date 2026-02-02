@@ -5,7 +5,7 @@ description: pgAdmin is a popular open-source administration and management tool
 version: 1.0.0
 
 files:
-  - compose.d/pgadmin.yml
+  - compose.d/pgadmin/pgadmin.yml
 
 logo: logos/pgadmin.png
 category: Database

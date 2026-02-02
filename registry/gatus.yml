@@ -5,7 +5,7 @@ description: Gatus is a self-hosted service and endpoint monitoring platform tha
 version: 1.0.0
 
 files:
-  - compose.d/gatus.yml
+  - compose.d/gatus/gatus.yml
 
 logo: logos/gatus.png
 category: Monitoring

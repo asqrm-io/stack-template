@@ -5,7 +5,7 @@ description: Frappe HR is a self-hosted human resource management platform built
 version: 1.0.0
 
 files:
-  - compose.d/frappe-hr.yml
+  - compose.d/frappe-hr/frappe-hr.yml
 
 logo: logos/frappe-hr.png
 category: Productivity

@@ -5,7 +5,7 @@ description: Deploy Ackee, a self-hosted, privacy-focused web analytics tool des
 version: 1.0.0
 
 files:
-  - compose.d/ackee.yml
+  - compose.d/ackee/ackee.yml
 
 logo: logos/ackee.png
 category: analytics

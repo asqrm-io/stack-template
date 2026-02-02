@@ -5,7 +5,7 @@ description: Flowise is a self-hosted, visual workflow builder for Large Languag
 version: 1.0.0
 
 files:
-  - compose.d/flowise.yml
+  - compose.d/flowise/flowise.yml
 
 logo: logos/flowise.png
 category: DevOps

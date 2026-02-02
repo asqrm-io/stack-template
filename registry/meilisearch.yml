@@ -5,7 +5,7 @@ description: Lightning-fast search engine for web applications with typo-toleran
 version: 1.0.0
 
 files:
-  - compose.d/meilisearch.yml
+  - compose.d/meilisearch/meilisearch.yml
 
 logo: logos/meilisearch.png
 category: Search

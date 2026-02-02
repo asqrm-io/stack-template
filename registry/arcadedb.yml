@@ -5,7 +5,7 @@ description: Deploy ArcadeDB, a high-performance multi-model database supporting
 version: 1.0.0
 
 files:
-  - compose.d/arcadedb.yml
+  - compose.d/arcadedb/arcadedb.yml
 
 logo: logos/arcadedb.png
 category: Database

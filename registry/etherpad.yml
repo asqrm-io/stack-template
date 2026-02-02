@@ -5,7 +5,7 @@ description: Real-time collaborative text editor for notes, documents, and teamw
 version: 1.0.0
 
 files:
-  - compose.d/etherpad.yml
+  - compose.d/etherpad/etherpad.yml
 
 logo: logos/etherpad.png
 category: Collaboration

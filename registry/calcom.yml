@@ -5,7 +5,7 @@ description: Cal.com is a self-hosted, open-source scheduling and appointment bo
 version: 1.0.0
 
 files:
-  - compose.d/calcom.yml
+  - compose.d/calcom/calcom.yml
 
 logo: logos/calcom.png
 category: Productivity

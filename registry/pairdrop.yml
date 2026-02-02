@@ -5,7 +5,7 @@ description: PairDrop is a self-hosted, local-first file sharing tool inspired b
 version: 1.0.0
 
 files:
-  - compose.d/pairdrop.yml
+  - compose.d/pairdrop/pairdrop.yml
 
 logo: logos/pairdrop.png
 category: Storage

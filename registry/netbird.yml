@@ -5,7 +5,7 @@ description: NetBird is a self-hosted, modern VPN and network management platfor
 version: 1.0.0
 
 files:
-  - compose.d/netbird.yml
+  - compose.d/netbird/netbird.yml
 
 logo: logos/netbird.png
 category: Networking

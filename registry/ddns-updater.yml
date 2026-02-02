@@ -5,7 +5,7 @@ description: A self-hosted dynamic DNS updater that automatically updates DNS re
 version: 1.0.0
 
 files:
-  - compose.d/ddns-updater.yml
+  - compose.d/ddns-updater/ddns-updater.yml
 
 logo: logos/ddns-updater.png
 category: Networking

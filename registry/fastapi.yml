@@ -5,7 +5,7 @@ description: Deploy a high-performance FastAPI application powered by Python and
 version: 1.0.0
 
 files:
-  - compose.d/fastapi.yml
+  - compose.d/fastapi/fastapi.yml
 
 logo: logos/fastapi.png
 category: backend

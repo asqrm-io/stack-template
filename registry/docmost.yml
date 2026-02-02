@@ -5,7 +5,7 @@ description: Self-hosted documentation platform for managing Markdown-based docs
 version: 1.0.0
 
 files:
-  - compose.d/docmost.yml
+  - compose.d/docmost/docmost.yml
 
 logo: logos/docmost.png
 category: Productivity

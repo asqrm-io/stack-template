@@ -5,7 +5,7 @@ description: Manage your reverse proxies, SSL certificates, and host configurati
 version: 1.0.0
 
 files:
-  - compose.d/nginx-proxy-manager.yml
+  - compose.d/nginx-proxy-manager/nginx-proxy-manager.yml
 
 logo: logos/nginx-proxy-manager.png
 category: Web Server

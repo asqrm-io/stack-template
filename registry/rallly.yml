@@ -5,7 +5,7 @@ description: Rallly is an open-source scheduling tool similar to Doodle, allowin
 version: 1.0.0
 
 files:
-  - compose.d/rallly.yml
+  - compose.d/rallly/rallly.yml
 
 logo: logos/rallly.png
 category: Productivity

@@ -5,7 +5,7 @@ description: DomainMOD is a self-hosted domain management platform for tracking 
 version: 1.0.0
 
 files:
-  - compose.d/domainmod.yml
+  - compose.d/domainmod/domainmod.yml
 
 logo: logos/domainmod.png
 category: Networking

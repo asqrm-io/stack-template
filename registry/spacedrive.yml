@@ -5,7 +5,7 @@ description: Spacedrive is a self-hosted cloud storage and file management platf
 version: 1.0.0
 
 files:
-  - compose.d/spacedrive.yml
+  - compose.d/spacedrive/spacedrive.yml
 
 logo: logos/spacedrive.png
 category: Storage

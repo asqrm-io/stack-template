@@ -5,7 +5,7 @@ description: Open-source Slack alternative for team chat and collaboration.
 version: 1.0.0
 
 files:
-  - compose.d/mattermost.yml
+  - compose.d/mattermost/mattermost.yml
 
 logo: logos/mattermost.png
 category: Collaboration

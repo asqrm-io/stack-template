@@ -5,7 +5,7 @@ description: Self-hosted modern authentication platform providing login, user ma
 version: 1.0.0
 
 files:
-  - compose.d/logto.yml
+  - compose.d/logto/logto.yml
 
 logo: logos/logto.png
 category: Authentication

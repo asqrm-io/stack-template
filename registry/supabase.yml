@@ -5,7 +5,7 @@ description: Open-source Firebase alternative for authentication, database, stor
 version: 1.0.0
 
 files:
-  - compose.d/supabase.yml
+  - compose.d/supabase/supabase.yml
 
 logo: logos/supabase.png
 category: Backend

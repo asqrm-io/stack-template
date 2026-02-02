@@ -5,7 +5,7 @@ description: A high-performance, enterprise-ready file syncing and sharing platf
 version: 1.0.0
 
 files:
-  - compose.d/seafile.yml
+  - compose.d/seafile/seafile.yml
 
 logo: logos/seafile.png
 category: Storage

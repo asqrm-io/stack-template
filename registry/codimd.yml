@@ -5,7 +5,7 @@ description: CodiMD (also known as HedgeDoc) is a self-hosted real-time collabor
 version: 1.0.0
 
 files:
-  - compose.d/codimd.yml
+  - compose.d/codimd/codimd.yml
 
 logo: logos/codimd.png
 category: Productivity

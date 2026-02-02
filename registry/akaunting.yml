@@ -5,7 +5,7 @@ description: Akaunting is a self-hosted, open-source accounting software for sma
 version: 1.0.0
 
 files:
-  - compose.d/akaunting.yml
+  - compose.d/akaunting/akaunting.yml
 
 logo: logos/akaunting.png
 category: Productivity

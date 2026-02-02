@@ -5,7 +5,7 @@ description: Postgresus is a self-hosted PostgreSQL database backup management U
 version: 1.0.0
 
 files:
-  - compose.d/postgresus.yml
+  - compose.d/postgresus/postgresus.yml
 
 logo: logos/postgresus.png
 category: Database

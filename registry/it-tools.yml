@@ -5,7 +5,7 @@ description: IT‑Tools is a self‑hostable suite of handy online utilities for
 version: 1.0.0
 
 files:
-  - compose.d/it-tools.yml
+  - compose.d/it-tools/it-tools.yml
 
 logo: logos/it-tools.png
 category: DevOps

@@ -5,7 +5,7 @@ description: A modern headless CMS for building APIs quickly using a customizabl
 version: 1.0.0
 
 files:
-  - compose.d/strapi.yml
+  - compose.d/strapi/strapi.yml
 
 logo: logos/strapi.png
 category: Backend

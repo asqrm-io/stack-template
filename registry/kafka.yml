@@ -5,7 +5,7 @@ description: Deploy Apache Kafka, a distributed streaming platform for building 
 version: 1.0.0
 
 files:
-  - compose.d/kafka.yml
+  - compose.d/kafka/kafka.yml
 
 logo: logos/kafka.png
 category: DevOps

@@ -5,7 +5,7 @@ description: CryptPad is a self-hosted, privacy-focused collaborative office sui
 version: 1.0.0
 
 files:
-  - compose.d/cryptpad.yml
+  - compose.d/cryptpad/cryptpad.yml
 
 logo: logos/cryptpad.png
 category: Productivity

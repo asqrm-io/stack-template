@@ -5,7 +5,7 @@ description: A high-performance self-hosted newsletter and mailing list manager 
 version: 1.0.0
 
 files:
-  - compose.d/listmonk.yml
+  - compose.d/listmonk/listmonk.yml
 
 logo: logos/listmonk.png
 category: Productivity

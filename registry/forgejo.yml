@@ -5,7 +5,7 @@ description: Forgejo is a self-hosted Git hosting platform forked from Gitea, pr
 version: 1.0.0
 
 files:
-  - compose.d/forgejo.yml
+  - compose.d/forgejo/forgejo.yml
 
 logo: logos/forgejo.png
 category: DevOps

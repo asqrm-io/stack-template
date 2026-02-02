@@ -5,7 +5,7 @@ description: Mautic is a self-hosted marketing automation platform that provides
 version: 1.0.0
 
 files:
-  - compose.d/mautic.yml
+  - compose.d/mautic/mautic.yml
 
 logo: logos/mautic.png
 category: Productivity

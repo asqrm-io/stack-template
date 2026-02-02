@@ -5,7 +5,7 @@ description: Invoice Ninja is a self-hosted platform for creating invoices, trac
 version: 1.0.0
 
 files:
-  - compose.d/invoiceninja.yml
+  - compose.d/invoiceninja/invoiceninja.yml
 
 logo: logos/invoiceninja.png
 category: Productivity

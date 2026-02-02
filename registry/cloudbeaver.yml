@@ -5,7 +5,7 @@ description: CloudBeaver is a web-based, self-hosted database management tool th
 version: 1.0.0
 
 files:
-  - compose.d/cloudbeaver.yml
+  - compose.d/cloudbeaver/cloudbeaver.yml
 
 logo: logos/cloudbeaver.png
 category: Database

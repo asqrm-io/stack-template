@@ -5,7 +5,7 @@ description: A lightweight, cost-efficient log aggregation system optimized for 
 version: 1.0.0
 
 files:
-  - compose.d/loki.yml
+  - compose.d/loki/loki.yml
 
 logo: logos/loki.png
 category: Monitoring

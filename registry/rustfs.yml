@@ -5,7 +5,7 @@ description: RustFS is a self-hosted, distributed file system written in Rust, d
 version: 1.0.0
 
 files:
-  - compose.d/rustfs.yml
+  - compose.d/rustfs/rustfs.yml
 
 logo: logos/rustfs.png
 category: Storage

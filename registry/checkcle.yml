@@ -5,7 +5,7 @@ description: CheckCle is a self-hosted, open-source monitoring platform for seam
 version: 1.0.0
 
 files:
-  - compose.d/checkcle.yml
+  - compose.d/checkcle/checkcle.yml
 
 logo: logos/checkcle.png
 category: Monitoring

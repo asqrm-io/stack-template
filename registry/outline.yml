@@ -5,7 +5,7 @@ description: Self-hosted knowledge base for teams with collaborative documentati
 version: 1.0.0
 
 files:
-  - compose.d/outline.yml
+  - compose.d/outline/outline.yml
 
 logo: logos/outline.png
 category: Collaboration

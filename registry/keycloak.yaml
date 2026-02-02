@@ -5,7 +5,7 @@ description: Open-source identity and access management with SSO, OAuth2, and Op
 version: 1.0.0
 
 files:
-  - compose.d/keycloak.yml
+  - compose.d/keycloak/keycloak.yml
 
 logo: logos/keycloak.png
 category: Authentication

@@ -5,7 +5,7 @@ description: A lightweight, self-hosted password manager compatible with Bitward
 version: 1.0.0
 
 files:
-  - compose.d/vaultwarden.yml
+  - compose.d/vaultwarden/vaultwarden.yml
 
 logo: logos/vaultwarden.png
 category: Security

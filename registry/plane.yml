@@ -5,7 +5,7 @@ description: Plane is an open-source project and issue management tool that help
 version: 1.0.0
 
 files:
-  - compose.d/plane.yml
+  - compose.d/plane/plane.yml
 
 logo: logos/plane.png
 category: Collaboration

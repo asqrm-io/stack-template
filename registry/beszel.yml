@@ -5,7 +5,7 @@ description: Beszel is a self-hosted infrastructure and application monitoring p
 version: 1.0.0
 
 files:
-  - compose.d/beszel.yml
+  - compose.d/beszel/beszel.yml
 
 logo: logos/beszel.png
 category: Monitoring

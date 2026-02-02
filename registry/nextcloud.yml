@@ -5,7 +5,7 @@ description: A self-hosted cloud storage and collaboration platform with file sy
 version: 1.0.0
 
 files:
-  - compose.d/nextcloud.yml
+  - compose.d/nextcloud/nextcloud.yml
 
 logo: logos/nextcloud.png
 category: Storage

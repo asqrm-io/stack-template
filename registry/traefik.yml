@@ -5,7 +5,7 @@ description: A cloud-native reverse proxy and ingress controller with automatic 
 version: 1.0.0
 
 files:
-  - compose.d/traefik.yml
+  - compose.d/traefik/traefik.yml
 
 logo: logos/traefik.png
 category: Networking

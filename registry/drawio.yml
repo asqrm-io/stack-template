@@ -5,7 +5,7 @@ description: Self-hosted Draw.io (Diagrams.net) diagram editor for creating tech
 version: 1.0.0
 
 files:
-  - compose.d/drawio.yml
+  - compose.d/drawio/drawio.yml
 
 logo: logos/drawio.png
 category: Productivity

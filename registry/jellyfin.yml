@@ -5,7 +5,7 @@ description: A fully free and open-source media server for streaming movies, sho
 version: 1.0.0
 
 files:
-  - compose.d/jellyfin.yml
+  - compose.d/jellyfin/jellyfin.yml
 
 logo: logos/jellyfin.png
 category: Productivity

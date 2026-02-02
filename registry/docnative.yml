@@ -5,7 +5,7 @@ description: Self-hosted documentation platform that supports Markdown and syncs
 version: 1.0.0
 
 files:
-  - compose.d/docnative.yml
+  - compose.d/docnative/docnative.yml
 
 logo: logos/docnative.png
 category: Productivity
