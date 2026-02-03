@@ -1,0 +1,32 @@
+services:
+  changedetection:
+    image: lscr.io/linuxserver/changedetection.io:latest
+    container_name: changedetection
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+      - HIDE_REFERER=true
+      - PLAYWRIGHT_DRIVER_URL=ws://playwright-chrome:3000
+    volumes:
+      - ${VOLUME_STORAGE:-/mnt/volumes}/changedetection/config:/config
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    depends_on:
+      - playwright-chrome
+
+  playwright-chrome:
+    image: dgtlmoon/sockpuppetbrowser:latest
+    container_name: playwright-chrome
+    restart: unless-stopped
+    expose:
+      - "3000"
+    tmpfs:
+      - /tmp
+    environment:
+      - SCREEN_WIDTH=1920
+      - SCREEN_HEIGHT=1024
+      - SCREEN_DEPTH=16
+      - MAX_CONCURRENT_CHROME_PROCESSES=10
+      - STATS_REFRESH_SECONDS=120
