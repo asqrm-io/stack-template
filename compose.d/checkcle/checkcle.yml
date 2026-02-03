@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  checkcle:
+    image: operacle/checkcle:latest
+    container_name: checkcle
+   # restart: always   # ← containerd supports only "always"
+    ports:
+      - "8090:8090"   # Web Application
+    volumes:
+      - /opt/pb_data:/mnt/pb_data
+    ulimits:
+      nofile:
+        soft: 4096
+        hard: 8192
