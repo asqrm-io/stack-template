@@ -1,0 +1,43 @@
+version: '3.7'
+
+services:
+
+  akaunting:
+    container_name: akaunting
+    image: docker.io/akaunting/akaunting:latest
+    ports:
+      - 8280:80
+    volumes:
+      - akaunting-data:/var/www/html
+    restart: unless-stopped
+    environment:
+      APP_LOCALE: en
+      APP_URL: "https://pg1.dev.asqrm.dev"     # <-- Add your domain here
+      DB_HOST: akaunting-db
+      DB_PORT: 3306
+      DB_DATABASE: akaunting
+      DB_USERNAME: akaunting_user
+      DB_PASSWORD: securepassword
+      COMPANY_NAME: "My Company"
+      COMPANY_EMAIL: "info@mycompany.com"
+      ADMIN_NAME: admin
+      ADMIN_EMAIL: "admin@mycompany.com"
+      ADMIN_PASSWORD: "SuperSecurePass123!"
+    depends_on:
+      - akaunting-db
+
+  akaunting-db:
+    container_name: akaunting-db
+    image: mariadb:latest
+    restart: unless-stopped
+    volumes:
+      - akaunting-db:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: akaunting
+      MYSQL_USER: akaunting_user
+      MYSQL_PASSWORD: securepassword
+
+volumes:
+  akaunting-data:
+  akaunting-db:

@@ -1,0 +1,70 @@
+version: "3.8"
+
+services:
+  activepieces:
+    image: ghcr.io/activepieces/activepieces:0.77.6
+    container_name: activepieces
+    restart: unless-stopped
+    ports:
+      - "8981:80"
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      # ===== Activepieces Core =====
+      AP_ENCRYPTION_KEY: "9f3c1a7b8d4e2f019c6a5b3d7e8f2a1b"
+      AP_JWT_SECRET: "b1c2d3e4f5a697887766554433221100"
+
+
+      # ===== URLs =====
+      AP_FRONTEND_URL: "http://localhost:8080"
+      AP_BACKEND_URL: "http://localhost:8080"
+
+      # ===== Database =====
+      AP_POSTGRES_DATABASE: "activepieces"
+      AP_POSTGRES_USERNAME: "activepieces"
+      AP_POSTGRES_PASSWORD: "supersecretpassword"
+      AP_POSTGRES_HOST: "postgres"
+      AP_POSTGRES_PORT: "5432"
+
+      # ===== Redis =====
+      AP_REDIS_HOST: "redis"
+      AP_REDIS_PORT: "6379"
+
+      # ===== Optional but recommended =====
+      AP_EXECUTION_MODE: "UNSANDBOXED" # change later if using sandbox workers
+      AP_LOG_LEVEL: "info"
+
+    volumes:
+      - ./cache:/usr/src/app/cache
+    networks:
+      - activepieces
+
+  postgres:
+    image: postgres:14.4
+    container_name: postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: "activepieces"
+      POSTGRES_USER: "activepieces"
+      POSTGRES_PASSWORD: "supersecretpassword"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - activepieces
+
+  redis:
+    image: redis:7.0.7
+    container_name: redis
+    restart: unless-stopped
+    volumes:
+      - redis_data:/data
+    networks:
+      - activepieces
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  activepieces:
