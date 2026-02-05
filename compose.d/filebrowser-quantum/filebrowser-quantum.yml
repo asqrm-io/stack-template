@@ -1,0 +1,9 @@
+services:
+  filebrowser:
+    image: gtstef/filebrowser:stable
+    volumes:
+      - ./data:/data 
+      - ./config.yaml:/config.yaml:ro
+    ports:
+      - 8080:80
+    restart: unless-stopped

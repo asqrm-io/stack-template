@@ -1,0 +1,5 @@
+server:
+  sources:
+    - path: /qrm/containers/filebrowser-quantum 
+      config:
+        defaultEnabled: true
