@@ -9,6 +9,8 @@ files:
 
 logo: logos/changedetection.png
 category: Monitoring
+popular: false
+github: https://github.com/dgtlmoon/changedetection.io
 
 tags:
   - monitoring
