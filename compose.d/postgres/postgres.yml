@@ -1,0 +1,13 @@
+name: postgres
+services:
+  postgres:
+    image: postgres:alpine
+    container_name: pocketbase-postgres
+    environment:
+      - POSTGRES_USER=user #Change to your own secure user
+      - POSTGRES_PASSWORD=pass #Change to your own secure password
+    volumes:
+      - ./pg_data:/var/lib/postgresql/data
+    # optional: only expose to host if you need to connect from outside docker
+    ports:
+      - "5432:5432"
